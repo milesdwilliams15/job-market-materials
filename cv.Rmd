@@ -69,10 +69,10 @@ Ashley, Jeffrey and Miles Williams. 2018. ["Illinois 10th Congressional District
 
 I occasionally have contributed to [Religion in Public](https://religioninpublic.blog/). Select posts include:
 
-  - ["White, Conservative, Religious...and Aid Skeptical](https://religioninpublic.blog/2021/01/21/white-conservative-religious-and-aid-skeptical/)
-  - ["Do Women Preach Differently than Men?"](https://religioninpublic.blog/2019/06/26/do-women-preach-differently-than-men/)
-  - ["Welcom the Stranger? Evangelicals' Views on Immigration Prior to Donald Trump"](https://religioninpublic.blog/2017/02/20/welcome-the-stranger-evangelicals-views-on-immigration-prior-to-donald-trump/)
-  - ["Evangelical Leaders Are as Negative on Immigration and Islam as Donald Trump](https://religioninpublic.blog/2017/02/13/evangelical-leaders-are-as-negative-on-immigration-and-islam-as-donald-trump/)
+  - ["White, Conservative, Religious...and Aid Skeptical"](https://religioninpublic.blog/2021/01/21/white-conservative-religious-and-aid-skeptical/) (January 21, 2021)
+  - ["Do Women Preach Differently than Men?"](https://religioninpublic.blog/2019/06/26/do-women-preach-differently-than-men/) (June 26, 2019)
+  - ["Welcom the Stranger? Evangelicals' Views on Immigration Prior to Donald Trump"](https://religioninpublic.blog/2017/02/20/welcome-the-stranger-evangelicals-views-on-immigration-prior-to-donald-trump/) (February 20, 2017)
+  - ["Evangelical Leaders Are as Negative on Immigration and Islam as Donald Trump"](https://religioninpublic.blog/2017/02/13/evangelical-leaders-are-as-negative-on-immigration-and-islam-as-donald-trump/) (February 13, 2017)
 
 
 ### R Packages
