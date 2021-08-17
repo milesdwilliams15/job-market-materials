@@ -10,7 +10,7 @@ author: Miles D. Williams
 jobtitle: Department of Political Science, University of Illinois at Urbana-Champaign
 address: "David Kinley Hall · 1470 W Gregory Drive · Urbana IL, 61801"
 email: "milesdw2@illinois.edu"
-github: "milesdwilliams15"
+# github: "milesdwilliams15"
 phone: "618-663-9499"
 web: "milesdwilliams15.github.io"
 fontawesome: yes
@@ -38,15 +38,13 @@ urlcolor: blue
 
 ### Working Papers and Works-in-Progress
 
-"Targeting Civil War: Intra-state Conflict and the Opportunity-cost of Foreign Aid." Submitted for review.
+"Targeting Civil War: Intra-state Conflict and the Opportunity-cost of Foreign Aid." (Revise and Resubmit).
 
 "Competition and Deference in the Political Economy of Foreign Aid: How Donor Interests and Recipient Need Shape Strategic Reactions in Aid Allocation."
 
 "Xinhua Coverage of Chinese Foreign Aid Allocations." With Lucie Lu
 
 "Leveraging the Black Box: Regression Adjustment via Random Forests."
-
-"Strategic Multilateralism: International Development Cooperation and the World Bank."
 
 
 ### Journal Articles
@@ -55,15 +53,13 @@ Burge, Ryan and Miles D. Williams. 2019. ["Gender in the Pulpit: Differences in 
 
 Burge, Ryan and Miles D. Williams. 2019. ["The Use of Social Media by Religious Leaders: Evangelical Leaders and Twitter."](https://brill.com/view/journals/rmdc/8/3/article-p309_309.xml) *Journal of Religion, Media and Digital Culture* 8(3): 309-39.
 
+
 ### Book Chapters
 
 Williams, Miles D. and Matthew S. Winters. ["The World Bank."](https://www.academia.edu/44436453/World_Bank) Forthcoming in *Handbook of International Organizations: Theories, Concepts, and Empirical Insights*. Eds. Katja Freistein, Julia Leininger, and Silke Weinlich.
 
 Ashley, Jeffrey and Miles Williams. 2018. ["Illinois 10th Congressional District: Re-rematch in Chicago Suburbs."](https://link.springer.com/chapter/10.1007/978-3-319-58094-4_9) In *The Roads to Congress 2016*. Eds. S. Foreman and M. Godwin. 
 
-### Conference Presentations
-
-"Divided We Stand: The Connection between Social Media Use and Deepening Partisan Divisions." 2016. Indiana Academy of the Social Sciences.
 
 ### Technical Guides
 
@@ -71,10 +67,15 @@ Ashley, Jeffrey and Miles Williams. 2018. ["Illinois 10th Congressional District
 
 ### Blogging
 
-I occasionally have contributed to [Religion in Public](https://religioninpublic.blog/)
+I occasionally have contributed to [Religion in Public](https://religioninpublic.blog/). Select posts include:
+
+  - ["White, Conservative, Religious...and Aid Skeptical](https://religioninpublic.blog/2021/01/21/white-conservative-religious-and-aid-skeptical/)
+  - ["Do Women Preach Differently than Men?"](https://religioninpublic.blog/2019/06/26/do-women-preach-differently-than-men/)
+  - ["Welcom the Stranger? Evangelicals' Views on Immigration Prior to Donald Trump"](https://religioninpublic.blog/2017/02/20/welcome-the-stranger-evangelicals-views-on-immigration-prior-to-donald-trump/)
+  - ["Evangelical Leaders Are as Negative on Immigration and Islam as Donald Trump](https://religioninpublic.blog/2017/02/13/evangelical-leaders-are-as-negative-on-immigration-and-islam-as-donald-trump/)
 
 
-### Software
+### R Packages
 
 [`RFA`](https://github.com/milesdwilliams15/RFA) - Implements [random forest adjustment](https://rpubs.com/milesdwilliams15/rfa-vignette) (RFA). RFA is a method for partialing out the influence of confoudning covariates via random forests.
 
@@ -83,6 +84,7 @@ I occasionally have contributed to [Religion in Public](https://religioninpublic
 [`SARM`](https://github.com/milesdwilliams15/SARM) - For estimating a modified version of the Strategic Autoregressive Model developed by [Steinwand (2011)](https://www.cambridge.org/core/journals/political-analysis/article/estimating-freeriding-behavior-the-stratam-model/0CBD6176E53848732CEC2C151A491212).
 
 `oesr` (available soon, with Ryan T. Moore) - For visualizing the results from randomized controlled trials using the Office of Evluation Sciences' [recommended style guide](https://oes.gsa.gov/assets/files/reporting-statistical-results.pdf).
+
 
 # TEACHING
 
@@ -95,6 +97,7 @@ I occasionally have contributed to [Religion in Public](https://religioninpublic
    - Probability in R \hfill 2018-2020
    - Integrals \hfill 2020
    - Linear Regression \hfill 2021
+   - GitHub and Version Control \hfill 2021
    
 
 # PROFESSIONAL
