@@ -26,7 +26,8 @@ urlcolor: blue
 
 *University of Illinois at Urbana-Champaign*, Ph.D. Political Science \hfill 2022 (expected)
 
-  - Fields: International Relations, Political Methodology
+  - Dissertation: "Competition and Deference in the Political Economy of Aid"
+  - Exams: International Relations, International Political Economy
   - Committee: Matthew S. Winters (chair), Xinyuan Dai, Robert Pahre, Robert Carroll
 
 *Eastern Illinois University*, M.A. Political Science \hfill 2016
@@ -75,7 +76,14 @@ I occasionally have contributed to [Religion in Public](https://religioninpublic
   - ["Evangelical Leaders Are as Negative on Immigration and Islam as Donald Trump"](https://religioninpublic.blog/2017/02/13/evangelical-leaders-are-as-negative-on-immigration-and-islam-as-donald-trump/) (February 13, 2017)
 
 
-### R Packages
+# SOFTWARE
+
+### Tools
+
+R, RStudio, Latex, Stata, Python
+
+
+### R Packages under Development
 
 [`RFA`](https://github.com/milesdwilliams15/RFA) - Implements [random forest adjustment](https://rpubs.com/milesdwilliams15/rfa-vignette) (RFA). RFA is a method for partialing out the influence of confoudning covariates via random forests.
 
