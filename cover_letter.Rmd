@@ -16,7 +16,7 @@ fontawesome: yes
 updated: false
 
 fontfamily: cochineal
-fontsize: 11pt
+fontsize: 12pt
 linkcolor: blue
 urlcolor: blue
 ---
