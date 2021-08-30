@@ -37,6 +37,13 @@ urlcolor: blue
 
 # RESEARCH
 
+### Journal Articles
+
+Burge, Ryan and Miles D. Williams. 2019. ["Gender in the Pulpit: Differences in Speaking Style for Men and Women."](http://ryanburge.net/wp-content/uploads/2019/06/JCR_Burge_Williams.pdf) *Journal of Communication and Religion* 42(1): 63-82.
+
+Burge, Ryan and Miles D. Williams. 2019. ["The Use of Social Media by Religious Leaders: Evangelical Leaders and Twitter."](https://brill.com/view/journals/rmdc/8/3/article-p309_309.xml) *Journal of Religion, Media and Digital Culture* 8(3): 309-39.
+
+
 ### Working Papers and Works-in-Progress
 
 "Targeting Civil War: Intra-state Conflict and the Opportunity-cost of Foreign Aid." (Revise and Resubmit).
@@ -46,13 +53,6 @@ urlcolor: blue
 "Xinhua Coverage of Chinese Foreign Aid Allocations." With Lucie Lu
 
 "Leveraging the Black Box: Regression Adjustment via Random Forests."
-
-
-### Journal Articles
-
-Burge, Ryan and Miles D. Williams. 2019. ["Gender in the Pulpit: Differences in Speaking Style for Men and Women."](http://ryanburge.net/wp-content/uploads/2019/06/JCR_Burge_Williams.pdf) *Journal of Communication and Religion* 42(1): 63-82.
-
-Burge, Ryan and Miles D. Williams. 2019. ["The Use of Social Media by Religious Leaders: Evangelical Leaders and Twitter."](https://brill.com/view/journals/rmdc/8/3/article-p309_309.xml) *Journal of Religion, Media and Digital Culture* 8(3): 309-39.
 
 
 ### Book Chapters
