@@ -1,0 +1,278 @@
+---
+output: 
+  stevetemplates::syllabus:
+    latex_engine: xelatex
+    dev: cairo_pdf
+geometry: margin=1in
+
+title: "Political Science 578: Proseminar in International Relations"
+author: Miles D. Williams
+date: "Fall 2022"
+
+email: "milesdw2@illinois.edu"
+web: "milesdwilliams15.github.io"
+officehours: "M, Th 10:00-12:30 a.m."
+office: "420 David Kinley Hall"
+classroom: "405 David Kinley Hall"
+classhours: "W 3:00-5:50 p.m."
+
+fontfamily: mathpazo
+fontsize: 12pt
+header-includes:
+   - \linespread{1.05}
+---
+
+```{r setup, include=FALSE, cache=F, message=F, warning=F, results="hide"}
+knitr::opts_chunk$set(cache=TRUE)
+knitr::opts_chunk$set(fig.path='figs/')
+knitr::opts_chunk$set(cache.path='_cache/')
+knitr::opts_chunk$set(warning=F, message=F)
+# knitr::opts_knit$get(kable.force.latex = TRUE)
+```
+
+
+
+```{r dates_bib, include=FALSE}
+knitr::opts_chunk$set(cache=FALSE, dev='pdf')
+mon <- as.Date("2022-08-15")
+# fri <- as.Date("2016-01-08")
+advdate <- function(obj, adv) {
+ tmon <- obj + 7*(adv-1)
+ tfri <- obj + 4 + 7*(adv-1)
+ tmon <- format(tmon, format="%m/%d")
+ tfri <- format(tfri, format="%m/%d")
+ zadv <- sprintf("%02d", adv)
+ tmp <- paste("Week ",zadv,sep='',", ", tmon," - ",tfri)
+ return(tmp)
+}
+```
+
+# Course Description
+
+This graduate seminar introduces students to IR by blending conventional and contrarian perspectives on the origins, theories, and methods of the discipline. In its conventional telling, the field of International Relations is defined by "Great Debates" on questions related to international security, war, deterrence, proliferation, and the like. However, IR scholars also study issues related to international political economy, environmental politics, and international organizations. Methodologically, the field is dominated by large-$n$ quantitative studies but is also rich in formal theoretical models and qualitative analysis. As the field developed, a narrative formed alongside it that situated the modern study of international politics within a tradition that extends to antiquity. In reality, the discipline as we recognize it today grew out of reactions to World War I and the events that immediately followed. 
+
+By the end of this course, students will be exposed to the wide range of issues, theories, methods, and epistemological perspectives that characterize IR. They will also be exposed to alternative perspectives on the development of the field. Students should leave prepared (1) to think theoretically, (2) to be conversant in the main theories and approaches used by IR scholars, (3) at the same time retain a critical self-awareness about these theories and approaches, and (4) to begin developing their own research questions and justifying their own theoretical approaches.\footnote{This syllabus was inspired by my graduate seminars in International Relations at both Ph.D. (Xinyuan Dai) and M.A. (Paul Danyi - Eastern Illinois University) level and from the course syllabus used by Robert Pahre.}
+
+
+\newpage
+
+# Requirements
+
+  - *Participation*: $30\%$ 
+  
+Students should come to class each week prepared to discuss the assigned readings. To do this, students must have read and critically engaged with the readings. Ideally, you should take notes and write short summaries of your key takeaways from each. These summaries are for your benefit, and they will not be collected.
+  
+  - *Discussion*: $20\%$
+  
+Once or twice in the semester (pending class size), you will be expected to lead class discussion. To this end, you will prepare a 15 minute presentation for your classmates in which you summarize and *explain* the main theoretical arguments and/or empirical findings of each of the readings. The goal of these presentations is not merely to recite the readings, but to *teach* your fellow classmates. You are free to use slides, write on the whiteboard, or use handouts. You will then facilitate class discussion. Come prepared with a set of questions for each of the readings to prompt discussion.
+
+  - *Mid-term Paper*: $25\%$
+
+By October, you will have been exposed to many issues in IR. To help you think more deeply about issues of special interest to you, for this course you will write a 5-7 page paper comparing and contrasting *two* of the readings that we have read in this course. You will evaluate these readings on the basis of their theoretical arguments, methodological approaches, or epistemological foundations. Because this is a collaborative discipline, in addition to a first draft of your paper being due to me by October 21, you and a fellow classmate will also exchange papers and provide feedback for each other's work. You will respond to your classmate's work as if you are responding critically to one of our assigned readings. You will summarize your evaluation in a 1-2 page memo that you return to your classmate no more than *one week* after receiving their paper. When you exchange memos, you will send me a copy of your memo as well.
+
+  - *Final Mock Preliminary Exam*: $25\%$
+  
+You will each receive a final exam question at 9:00 a.m., December 5. This question is representative of one you might see in an IR comprehensive exam. Upon receiving the exam prompt, you will have 48 hours to respond to the question I give you in the form of a 10-15 page paper. This is a "take-home" exam. You are free to cite any of the course readings in your response.
+
+
+# Campus Policies
+
+To know what to do in case of emergency, see the campus emergency preparedness resources: [link here]
+
+Students with disabilities should contact me. Campus resources can be found here: [link here]
+
+# Course Schedule
+
+Any readings listed under *Recommended* are there for your reference but are not required. All other readings are required. As the instructor, I retain the right to modify this schedule throughout the semester. 
+
+Before the course starts, I recommend reading---at the very least skimming---the following books.
+
+  - There are many, many good introductory books on IR theories. Personally, I've found Dan Drezner's (2014) *Theories of International Politics and Zombies, Revived Edition* among the most accessible and enjoyable to read. Though the motif (zombie Apocalypse) may seem glib, Drezern's book is a relatively quick read while also managing to cover a lot of ground. If you want a crash course on the major theories and perspectives that dominate IR, you could do much much worse.
+  - For a solid intro to the range of issues that IR scholars care about and some historical background I recommend Richard Haass's (2020) *The World: A Brief Introduction*. It, like Drezner's book, is an easy and accessible read. It is not the most thorough introduction to be sure, but it provides some nice context for the issues IR scholars care about.
+  - For those new to game theory, Andy Kydd's (2015) *International Relations Theory: The Game-Theoretic Approach* provides a nice introduction to game theory and IR theory using relatively simple models. For those not mathematically inclined (though you really should get more comfortable with using math), this book is not overly technical. It also covers all sorts of issues ranging from international security and bargaining to political economy, and even to negotiations on environmental policy. At the very least, this book will help you to gain some literacy in game-theoretic models if you have never before been exposed to this style of argument.
+
+## `r advdate(mon, 1)`: Introduction and Syllabus
+
+No assigned readings.
+    
+
+## `r advdate(mon, 2)`: Myths of IR
+
+As IR developed as an academic discipline, a narrative emerged about the field's origins in ancient Greece in the writings of Thucydides. The field also has tended to curry in myths that the sovereign state as we understand it today was birthed by the Treaty of Westphalia in 1648. This week, we'll put these and other tales under a microscope.
+
+### What we get wrong about the origins of IR
+
+  1. Schmidt, Brian C. 1994. "The Historyography of Academic International Relations." *Review of International Studies* 20(4): 394-67.
+  2. Carvalho, Benjamin, Halvard Leira, and John M. Hobson. 2011. "The Big Bangs of IR: The Myths that your Teachers Still Tell You about 1648 and 1919." *Millennium* 39(3): 735-758.
+  3. Ashworth, Lucian M. 2002. "Did the Realist-Idealist Great Debate Really Happen? A Revisionist History of International Relations." *International Relations* 16(1): 33-51.
+
+
+### An American Discipline
+
+  4. Weaver, Ole. 1998. "The Sociology of a Not so International Discipline." *International Organization* 52(4): 687-727.
+  5. Smith, Steve. 2000. "The Discipline of International Relations: Still an American Social Science?" *The British Journal of Politics and International Relations* 2(3): 374-402.
+
+
+
+## `r advdate(mon, 3)`: Theory, Model Building, and Philosophy of Science
+
+As scientists, we rely on theories to help us make sense of the world. We further use models to help guide our way. These models can be mathematical, but they can also be informal---written in prose. However, before we use theories and models, we first need a grounding in what theories are, what models ought to do, and how we know our theories and models perform well.
+
+### Theory and Models
+
+  1. Waltz, Kenneth. 1979. "Laws and Theories." In *Theory of International Politics*. Long Grove: Waveland Press.
+  2. Clarke, Kevin A. and David M. Primo. 2007. "Modernizing Political Science: A Model-based Approach." *Perspectives on Politics* 5(4): 741-753.
+
+
+### Epistemology
+
+  3. Lakatos, Imre. 1970. "Falsification and the Methodology of Scientific Research Programmes." In *Criticism and the Growth of Knowledge*. Eds. Imre Lakatos and Alan Musgrave. New York: Cambridge University Press.
+  4. Vasquez, John A. 1997. "The Realist Paradigm and Degenerative Versus Progressive Research Programs: An Appraisal of Neotraditional Research on Waltz's Balancing Proposition." *The American Political Science Review* 91(4):899-912.
+  5. Laudan, Larry. 1990. "Progress and Cumulativity." In *Science and Relativism: Some Key Controversies in the Philosophy of Science*. Chicago: University of Chicago Press.
+  6. Walt, Stephen M. 1997. "The Progressive Power of Realism." *The American Political Science Review* 91(4): 931-935.
+
+
+##  `r advdate(mon, 4)`: Levels of Analysis
+
+A common breakdown of what are called "levels of analysis" centers on three categories of analysis: (1) the domestic level, (2) the level of the state, and (3) the level of the international system. What can we learn about international politics by looking at each of these levels?
+
+  1. Waltz, Kenneth. 1959. *Man, the State, and War: A Theory of International Relations*. New York: Columbia University Press. (Read pages 16-41).
+  2. Jervis, Robert. 1976. "Chapter 1: Perception and the Level of Analysis Problem." In *Perception and Misperception in International Politics*. Princeton: Princeton University Press.
+  3. Hafner-Burton, Emilie M., Stephan Haggard, David A. Lake, and David G. Victor. 2017. "The behavioral revolution and international relations." *International Organization* 71(1): 1-31.
+  4. Powell, Robert. 2017. "Research Bets and IR." *International Organization* 71(1): 65-77.
+
+
+##  `r advdate(mon, 5)`: Realism
+
+Realism is perhaps one of the most ubiquitous theories in IR. This week we'll discuss its origins, assumptions, and variations.
+
+  1. Dickinson, Goldsworth Lowes. 1916. "Introduction." *The European Anarchy.* London: George Allen and Unwin Ltd.
+  2. Jervis, Robert. 1978. "Cooperation under the Security Dilemma." *World Politics* 30(2): 167-214.
+  3. Doyle, Michael W. 1997. "The Range of Realism." In *Was of War and Peace: Realism, Liberalism, and Socialism*. New York: W.W. Norton and Co.
+  4. Wohlforth, William C. 2008. "Realism." In *The Oxford Handbook of International Relations*. Eds. Christian Reus-Smith and Duncan Snidal. Oxford Handbooks Online.
+
+
+
+##  `r advdate(mon, 6)`: Rationalism and Models of Conflict
+
+If war is costly, why do states go to war? Can war be consistent with a rational actor model of the state?
+
+  1. Fearon, James D. 1995. "Rationalist Explanations for War." *International Organization* 49(3): 379-414.
+  2. Hirshleifer, Jack. 1988. "The Analytics of Continuing Conflict." *Synthese* 76: 201-33.
+  3. Powell, Robert. 1993. "Guns, Butter, and Anarchy." *The American Political Science Review* 87(1): 115-32.
+  4. Mearsheimer, John J. 2001. *The Tradedy of Great Power Politics*. W.W. Norton and Co. (Read chapters 1 and 2).
+  5. Glaser, Charles L. 2010. *Rational Theory of International Politics: The Logic of Competition and Cooperation*. Princeton: Princeton University Press. (Reach chapters 1 and 3).
+
+### Recommended
+
+Johnson, James. 1996. "How Not to Criticize Rational Choice Theory: Pathologies of 'Common Sense.'" *Philosophy of the Social Sciences* 26: 77-91.
+
+
+##  `r advdate(mon, 7)`: Neoliberalism and Cooperation
+
+This week we'll begin discussing Neoliberalism, a view that historically has used Realism as a foil (and, as we'll see the reverse was also true).
+
+  1. Axelrod, Robert. 1981. "The Emergence of Cooperation among Egoists." *The American Political Science Review* 75(2): 306-18.
+  2. Stein, Arthur A. 1982. "Coordination and Collaboration: Regimes in an Anarchic World." *International Organization* 36(2): 299-324.
+  3. Keohane, Robert O. 1984. *After Hegemony: Cooperation and Discord in the World Political Economy*. Princeton: Princeton University Press. (Read chapters 4 and 6).
+  4. Olson, Mancur and Richard Zeckhauser. 1966. "An Economic Theory of Alliances." *Review of Economics and Statistics* 48(3): 266-279.
+
+### Recomended
+
+Read *all* of Keohane (1984).
+
+
+##  `r advdate(mon, 8)`: Rationalism and Models of Cooperation
+
+Continuing with the theme of Neoliberalism, a common thread through much of this literature is a focus on iterated games and the Prisoners' Dilemma. There also tends to be a focus on the role of institutions in facilitating cooperation.
+
+  1. Stone, Randall W., Branislav L. Slantchev, and Tamar L. London. 2008. "Choosing How to Cooperate: A Repeated Public-Goods Model of International Relations." *International Studies Quarterly* 52(2): 335-62.
+  2. Pahre, Robert. 1998. "Reactions and Reciprocity: Tariffs and Trade Liberalization in 1815-1914." *Journal of Conflict Resolution* 42(4): 467-492.
+  3. Davis, Christina L. 2004. "International Institutions and Issue Linkage: Building Support for Agricultural Trade Liberalization." *American Political Science Review* 98(1): 153-69.
+  4. Snidal, Duncan. 1985. "Coordination versus Prisoners' Dilemma: Implications for International Cooperation and Regimes." *American Political Science Review* 79(4): 923-42.
+  5. Pahre, Robert. 1994. "Multilateral Cooperation in an Iterated Prisoners' Dilemma." *Journal of Conflict Resolution* 38(2): 326-52.
+
+
+### Recommended
+
+Fudenberg, Drew and Eric Maskin. 1986. "The Folk Theorem in Repeated Games or with Incomplete Information." *Econometrica* 54: 533-554.
+
+
+##  `r advdate(mon, 9)`: Does Compliance = Cooperation?
+
+This week, we'll ask whether compliance is a result of cooperation or is just downstream of state interests.
+
+  1. Mearsheimer, John J. 1994. "The False Promise of International Institutions." *International Security* 19(3): 5-49.
+  2. Downs, George W., David M. Rocke, and Peter N Barsoom. 1996. "Is the Good News about Compliance Good News about Cooperation?" *International Organization* 50(3): 379-406.
+  3. Keohane, Robert O. and Lisa L. Martin. 1995. "The Promise of Institutionalist Theory." *International Security* 20(1): 39-51.
+  4. Krasner, Stephen D. 1991. "Global Communications and National Power: Life on the Pareto Frontier." *World Politics* 43(3): 336-66.
+  5. Fearon, James D. 1998. "Bargaining, Enforcement, and International Cooperation." *International Organization* 50(3): 379-406.
+
+
+
+##  `r advdate(mon, 10)`: Mid-Term Paper
+
+Use this week to review readings that we've covered thus far as you write your 5-7 page paper comparing and contrasting two of the articles or book chapters assigned thus far. Email your papers to me and exchange them with your assigned classmate by October 21, 11:55 p.m.
+
+##  `r advdate(mon, 11)`: Constructivism vs. Rationalism
+
+This week we'll examine a controversial and oft misunderstood perspective in IR called "Constructivism." It is controversial because it appears to some to be a direct critic of the more mainstream rationalist approach to IR and its positivist epistemology. But others see it as complementary with mainstream IR theory; not in opposition to it.
+
+  1. Adler, Emanuel. 2013. "Constructivism in International Relations: Sources, Contributions, and Debates." In *Handbook of International Relations, Second Edition*. Eds. Walter Carlsnaes, Thomas Risse, and Beth A. Simmons. Sage.
+  2. Wendt, Alexander. 1992. "Anarchy Is what States Make of It: The Social Construction of Power Politics." *International Organization* 46(2): 391-425.
+  3. Checkel, Jeffrey T. 2001. "Why Comply? Social Learning and European Identity Change." *International Organization* 55(3): 553-588.
+  4. Fearon, James D. and Alexander Wendt. 2002. "Rationalism v. Constructivism: A Skeptical View." In *Handbook of International Relations*. Eds. Walter Carlsnaes, Thomas Risse, and Beth A. Simmons. Sage.
+
+##  `r advdate(mon, 12)`: The Domestic and the International
+
+Earlier we discussed levels of analysis. Now we'll consider how different levels interact with each other. How do domestic preferences influence international relations? How do international relations influence domestic politics?
+
+  1. Putnam, Robert D. 1988. "Diplomacy and Domestic Politics: The Logic of Two-Level Games." *International Organization* 42(3): 427-60.
+  2. Iida, Keisuke. 1993. "When and How Do Domestic Constraints Matter? Two-Level Games with Uncertainty." *Journal of Conflict Resolution* 37(3): 403-26.
+  3. Gourevitch, Peter. 1978. "The Second Image Reversed: The International Sources of Domoestic Politics." *International Organization* 32(4): 881-912.
+  4. Moravcsik, Andrew. 1997. "Taking Preferences Seriously: A Liberal Theory of International Politics." *International Organization* 51(4): 513-53.
+  5. Mertha, Andrew and Robert Pahre. 2005. "Patently Misleading: Partial Implementation and Bargaining Leverage in Sino-American Negotiations on Intellectual Property Rights." *International Organization* 59(3): 695-729.
+  6. Braumoeller, Bear F. 2013. *The Great Powers and the International System: Systemic Theory in Empirical Perspective* Cambridge University Press. (Read Chapter 2)
+
+##  `r advdate(mon, 13)`: Conflict, Cooperation, and Regime Type
+
+Some theories treat states as fundamentally similar units. However, a literature in IR has evolved around the role of regime type in explaining conflict and cooperation among states. Do democracies cooperate? Are authoritarian regimes unreliable partners?
+
+  1. Milner, Helen V. and B. Peter Rosendorff. 1997. "Domestic Politics in International Trade Negotiations: Elections and Divided Government as Constraints on Trade Liberalization." *Journal of Conflict Resolution* 41(1): 117-46.
+  2. Fearon, James D. 1994. "Domestic Political Audiences and the Escalation of International Disputes." *American Political Science Review* 88(3): 577-592. 
+  3. Schultz, Kenneth A. 1999. "Do Democratic Institutions Constrain or Inform? Contrasting Two Institutional Perspectives on Democracy and War." *International Organization* 53(2): 233-66.
+  4. Weeks, Jessica L. 2008. "Autocratic Audience Costs: Regime Type and Signaling Resolve." *International Organization* 62(1): 35-64.
+  5. Dai, Xinyuan. 2006. "The Conditional Nature of Democratic Compliance." *Journal of Conflict Resolution* 50(5): 690-713.
+
+
+##  `r advdate(mon, 14)`: Global Issues, the Commons, and Diffusion
+
+International politics, or global politics? Many issues facing states now, and even throughout much of the modern age are properly *global* in nature. Interconnections among nations, diffusion of norms, and global public goods all complicate the distinctions we usually draw between the preferences and utility of one state vis-a-vis others.
+
+  1. Hardin, Garrett. 1968. "The Tragedy of the Commons." *Science* 162(3859): 1243-48.
+  2. Ostrom, Elinor, Joanna Burger, Christopher B. Field, Richard B. Norgaard, and David Policansky. 1999. "Revisting the Commons: Local Lessons, Global Challenges." *Science* 284(5412): 278-82.
+  3. Simmons, Beth A. and Zachary Elkins. 2004. "The Globalization of Liberalization: Policy Diffusion in the International Political Economy." *American Political Science Review* 98(1): 171-189.
+  4. Kelley, Judith. 2008. "Assessing the Complex Evolution of Norms: The Rise of International Election Monitoring." *International Organization* 62(2): 221-55.
+  5. Cao, Xun. 2012. "Global Networks and Domestic Policy Convergence: A Network Explanation of Policy Changes." *World Politics* 64(3): 375-425.
+
+### Recommended
+
+Keohane, Robert O. and Joseph s. Nye Jr. 1977. *Power and Interdependence*. Little, Brown, and Co.
+
+##  `r advdate(mon, 15)`: Thanksgiving Break
+
+Review readings and/or read ahead.
+
+
+##  `r advdate(mon, 16)`: International Order and Hierarchy
+
+Though they have some authority, historically IR places the sovereign state as *the* highest kind of authority that can exist. In this final week of the course, we'll consider alternative perspectives. Is the structure of the international system fundamentally anarchical, or does it have hierarchy? And if it does, what are the implications?
+
+  1. Trachtenberg, Marc. 2006. "The Problem of International Order and How to Think about It." *The Monist* 89(2): 207-31.
+  2. Lake, David A. 2009. *Hierarchy in International Relations*. Cornell University Press.
+  3. Braumoeller, Bear F. 2019. *Only the Dead: The Persistence of War in the Modern Age*. New York: Oxford University Press. (Read chapter 7)
+
+
+##  `r advdate(mon, 17)`: Final Exam
+
+I will email final exam questions December 5 at 9:00 a.m. You will have 48 hours to complete and return your 10-15 page response to me via email.

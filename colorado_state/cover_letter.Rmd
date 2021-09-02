@@ -24,7 +24,7 @@ urlcolor: blue
 
 \bigskip
 
-Dear Search Committee in the Department of Political Science at [some university],
+Dear Search Committee in the Department of Political Science at Colorado State University,
 
 \bigskip
 
@@ -52,7 +52,7 @@ My research and experience at Illinois has prepared me to teach courses in inter
 
 I am also eager to serve as a contributing member to the life and work of your department. At Illinois I have taken on various roles. I have served on, and been interim head of, the graduate Methods Committee. I have also volunteered for four years as an instructor for a yearly Math Camp the political science department holds for incoming graduate students, teaching crash-course sessions on probability and distributions in R, calculus, linear regression, and version control. I also have served as the organizer for an International Relations workshop, which provides graduate students at Illinois an opportunity to share their ongoing research with peers and faculty members to receive feedback and strengthen their work.
 
-I believe my experience and qualifications will make me a valuable addition to the life, research, and teaching of your department at [some university]. Please find the package of application materials that I have included with this letter. You can email or call me any time with questions.
+I believe my experience and qualifications will make me a valuable addition to the life, research, and teaching of your department at Colorado State. Please find the package of application materials that I have included with this letter. You can email or call me any time with questions.
 
 \bigskip
 
