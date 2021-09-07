@@ -3,7 +3,7 @@ output:
     stevetemplates::cv
 geometry: margin=1in
 
-title: "Teaching Statement"
+title: "Teaching Statement for the University of Notre Dame"
 author: Miles D. Williams
 
 jobtitle: Department of Political Science, University of Illinois at Urbana-Champaign
@@ -42,6 +42,7 @@ I am interested in teaching at both the undergraduate and graduate levels. I hav
 
 
 # Teaching Evaluations
+
 
 The following table summarizes course evaluations from students for *Intro to International Relations* (Online) and from discussion sections for *Intro to Political Science*. Cell entries are out of 5 and reflect the course average.
 

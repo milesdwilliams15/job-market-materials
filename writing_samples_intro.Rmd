@@ -1,0 +1,12 @@
+---
+title:
+output: pdf_document
+fontfamily: mathpazo
+fontsize: 12pt
+---
+
+\pagenumbering{gobble}
+
+# Writing Samples
+
+\textbf{Note:} This document contains two writing samples drawn from my dissertation. The first centers on a game-theoretic model of a strategic political economy of aid. This runs from pages 1 to 48. The second, which begins on page 50 of this document, is an empirical analysis that seeks to identify when and where aid donor governments compete or pass the buck in aid allocation.
