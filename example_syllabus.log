@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2017.10.12)  31 AUG 2021 20:33
+This is XeTeX, Version 3.14159265-2.6-0.99996 (MiKTeX 2.9) (preloaded format=xelatex 2017.10.12)  9 SEP 2021 09:40
 entering extended mode
 **./example_syllabus.tex
 (example_syllabus.tex
@@ -700,13 +700,7 @@ LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <12> not available
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 294.
 [3] [4] [5] [6] [7] [8]
-Overfull \hbox (0.37561pt too wide) in paragraph at lines 704--710
-[]\T1/ppl/m/n/12 International pol-i-tics, or global pol-i-tics? Many is-sues f
-ac-ing states now, and even through-
- []
-
-
-Overfull \hbox (1.92436pt too wide) in paragraph at lines 718--722
+Overfull \hbox (1.92436pt too wide) in paragraph at lines 721--725
 []\T1/ppl/m/n/12 Ostrom, Eli-nor, Joanna Burger, Christo-pher B. Field, Richard
  B. Nor-gaard, and David
  []
@@ -714,12 +708,12 @@ Overfull \hbox (1.92436pt too wide) in paragraph at lines 718--722
 [9] 
 AED: lastpage setting LastPage
 [10]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 783.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 783.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 786.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 786.
 (example_syllabus.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 783.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 783.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 783.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 786.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 786.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 786.
  ) 
 Here is how much of TeX's memory you used:
  19561 strings out of 428410
@@ -736,4 +730,4 @@ Output written on example_syllabus.pdf (10 pages).
 ! [1][2][3][4][5][6][7][8][9][10]
 ! xdvipdfmx:warning: PDF destination "Hfootnote.1" not defined.
 
-! 50952 bytes written
+! 51047 bytes written

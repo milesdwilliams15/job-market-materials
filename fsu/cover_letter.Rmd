@@ -3,7 +3,7 @@ output:
     stevetemplates::cv
 geometry: margin=1in
 
-title: "Cover Letter"
+title: "Cover Letter for Florida State University"
 author: Miles D. Williams
 
 jobtitle: Department of Political Science, University of Illinois at Urbana-Champaign
@@ -21,13 +21,14 @@ linkcolor: blue
 urlcolor: blue
 ---
 
+
 \bigskip
 
 Dear Search Committee,
 
 \bigskip
 
-I am writing this letter to express my interest in the open faculty appointment at your university. I am a doctoral candidate in the Department of Political Science at the University of Illinois, and I expect to defend my dissertation by June 2022 under the supervision of Matt Winters, Xinyuan Dai, Bob Pahre, and Rob Carroll. 
+I am writing this letter to express my interest in the open faculty appointment in the Department of Political Science at Florida State University focusing on institutions and political economy. I am a doctoral candidate in the Department of Political Science at the University of Illinois, and I expect to defend my dissertation by June 2022 under the supervision of Matt Winters, Xinyuan Dai, Bob Pahre, and Rob Carroll. 
 
 My primary research agenda centers on the political economy of foreign aid. I have special interest in identifying the foreign policy goals countries pursue through their aid allocation and in explaining the strategic responses among leading foreign aid donors to each other as they allocate aid to developing countries. To address these issues, I rely on various tools, from formal theory to machine learning, as well as classical econometric techniques.
 
@@ -53,7 +54,7 @@ My research and experience at Illinois has prepared me to teach courses in inter
 
 I am also eager to serve as a contributing member to the life and work of your department. At Illinois I have taken on various roles. I have served on, and been interim head of, the graduate Methods Committee. I have also served as an elected member of Illinois' Political Science Graduate Student Association. Further, my capacity as a math camp instructor was voluntary and an act of service for the department I was grateful to provide. I also served as the organizer for an International Relations workshop, which provided graduate students at Illinois an opportunity to share their ongoing research with peers and faculty members to receive feedback and strengthen their work.
 
-I believe my experience and qualifications will make me a valuable addition to the life, research, and teaching of your department. Please find the package of application materials that I have included with this letter. You can email or call me any time with questions.
+I believe my experience and qualifications will make me a valuable addition to the life, research, and teaching of your department at Florida State. Please find the package of application materials that I have included with this letter. You can email or call me any time with questions.
 
 \bigskip
 

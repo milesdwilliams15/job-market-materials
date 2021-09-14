@@ -1,0 +1,70 @@
+---
+output: 
+    stevetemplates::cv
+geometry: margin=1in
+
+title: "Teaching Statement for Tufts University"
+author: Miles D. Williams
+
+jobtitle: Department of Political Science, University of Illinois at Urbana-Champaign
+address: "David Kinley Hall · 1470 W Gregory Drive · Urbana IL, 61801"
+email: "milesdw2@illinois.edu"
+# github: "milesdwilliams15"
+phone: "618-663-9499"
+web: "milesdwilliams15.github.io"
+fontawesome: yes
+updated: false
+
+fontfamily: cochineal
+fontsize: 12pt
+linkcolor: blue
+urlcolor: blue
+---
+
+\vspace*{10mm}
+
+My teaching philosophy is based on my experiences with three distinct groups: (1) undergraduate students at the University of Illinois, (2) new graduate students at the University of Illinois, and (3) academic affiliates and fellows at the U.S. Office of Evaluation Sciences (OES). Interactions with these groups have taught me how to navigate two key dimensions along which students vary: their *level of interest* in substantive and technical subject matter, and their *pre-existing skill sets and knowledge*. 
+
+At the undergraduate level, students often (but not always) begin with a limited set of technical skills and substantive knowledge. However, they can vary widely in terms of interest and motivation. Graduate students, alternatively, tend to be highly motivated, but when they first enter a graduate program they may vary with respect to their technical knowledge, or even their basic understanding of what political scientists actually do. More advanced graduates and the academic affiliates and fellows I encounter at OES are almost always highly motivated and technically savvy. While this makes this last group a delight to teach and to provide guidance for, doing so comes with its own sets of challenges when these individuals are closed to new ideas or ways of doing things.
+
+In my teaching, regardless of whom I teach to, while I seek to accommodate learners of all types, I have high standards and expectations for all. Whether someone takes introduction to political science as a general education course, an upper level course in international political economy, or an advanced methods course, it is important to set high standards, and to make those standards clear and unambiguous. These not only include expectations for student performance, but also honesty and academic integrity.
+
+In practice, enforcing these standards does not preclude compassion. To the contrary, enforcement requires meeting students where they are. It also means giving students a hand up when they fall short. The latter has proved especially true given the uncertain climate COVID-19 has created for many. Something as simple as access to quality Wi-Fi and a safe space to work can be the difference between a student's success or her failure. This is a problem that many educators have had to navigate over the past year and half, and is one I have had to navigate as well. Whether online or in person, demanding standards demand compassion. 
+
+While both high expectations and compassion are constants, appropriate methods of teaching and interacting with students vary considerably between and within different groups. For instance, at the graduate level I have for the last four years served as a math camp instructor for new political science graduate students at Illinois. Incoming graduates have differed in terms of the their prior exposure to concepts such as probability, methods such as linear regression, and familiarity with statistical software. This has challenged me to find ways to develop course materials that are simultaneously accessible and useful for both novice and experienced learners. 
+
+Individuals also differ with respect to whether they need more hands-on attention and feedback from an instructor, or thrive with a hands-off approach. Adapting to different learning styles and needs is pivotal to student achievement. Knowing what works best for certain students requires some trial-and-error, but, above all else, it requires getting to know students, their unique experiences, and diverse needs. These are practices that I have found helpful in the past, and ones I will continue to sharpen and apply now and in the future.
+
+
+# Teaching Interests
+
+I have experience as a TA and independent instructor, and I have experience teaching both in the classroom and online. As a TA, I have led sections of Intro to Political Science for which I lectured, facilitated group discussions, and graded and provided feedback to students. I also served as the instructor of record for online Intro to IR. For the past four years, I have served as an instructor for the Political Science Department's math camp for incoming graduate students, teaching crash courses on probability, calculus, linear regression, and documentation and version control. This experience, combined with my training in statistics and formal theory, my research and expertise as an IR scholar and student of political economy, and my applied experience with experimental research design at OES have prepared me to teach a wide range of courses. I would feel comfortable teaching introductory and advanced seminars in IR, international or comparative political economy, game theory, research design, and quantitative methods.
+
+
+# Teaching Evaluations
+
+The following table summarizes course evaluations from students for *Intro to International Relations* (Online) and from discussion sections for *Intro to Political Science*. Cell entries are out of 5 and reflect the course average.
+
+\begin{center}
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(kableExtra)
+library(tidyverse)
+df <- tibble(
+  " " = c("Teaching Effectiveness",
+          "Learned Something New",
+          "Respect for Students",
+          "Instructor Accessibility",
+          "Course Quality"),
+  "\\textit{Intro to IR}" = c('4.0', '5.0', '5.0', '4.25', '4.5'),
+  "\\textit{Intro to Poli. Sci.}" = c('4.0', "$^\\text{a}$", '4.8', '4.5', '4.2')
+)
+kbl(df, digits = 1, booktabs = TRUE,
+    escape = F) %>%
+  add_footnote(
+    threeparttable = TRUE,
+    label = "Not asked"
+  )
+```
+
+\end{center}

@@ -1,0 +1,27 @@
+---
+output: 
+    stevetemplates::cv
+geometry: margin=1in
+
+title: "Dissertation Abstract"
+author: Miles D. Williams
+
+jobtitle: Department of Political Science, University of Illinois at Urbana-Champaign
+address: "David Kinley Hall · 1470 W Gregory Drive · Urbana IL, 61801"
+email: "milesdw2@illinois.edu"
+# github: "milesdwilliams15"
+phone: "618-663-9499"
+web: "milesdwilliams15.github.io"
+fontawesome: yes
+updated: false
+
+fontfamily: cochineal
+fontsize: 12pt
+linkcolor: blue
+urlcolor: blue
+---
+
+
+My dissertation centers on competition and buck-passing in the political economy of foreign aid. It addresses this issue theoretically and empirically. With respect to theory, I develop a game-theoretic model of strategic donor interactions. In contrast with existing theoretical approaches, I emphasize donor choices in distributing aid *between* recipient countries and consider variation in the positive and negative foreign policy externalities that donor governments create for each other in their aid allocations. Analysis of the model helps to answer a timely question: why is cooperation among donors in the distribution of aid to developing countries so difficult? It is often implied that donors distribute aid in collectively inefficient ways and that the donor community and recipients would be better off if donors would collaboration in aid allocation. However, I find that when a mix of rival and common donor objectives for giving aid are considered, collective solutions do not always Pareto improve on individually optimal solutions. In fact, across a wide range of the parameter space collective optimization often leaves one donor better off relative to individual optimization but the other worse off. Usually, though not uniformly, larger donors would prefer collective optimization while smaller donors would prefer individual optimization. This suggests that without recourse to external mechanisms, the choice between collective or individual solutions may often be a point of conflict rather than common interest among donor governments.
+
+The remainder of the dissertation takes up the task of identifying the conditions under which donors compete or pass the buck in aid allocation. To this end, in one chapter I detail novel composite measures of donor's foreign policy interests and of recipient need for aid. I subsequently leverage these measures to assess generally how the strength of donor interests and the magnitude of recipient need for aid condition how donor governments react to each other. Using random forests I find strong evidence that donor interactions are shaped by their foreign policy goals and by recipient need. Subsequent econometric analysis reveals that donors are most responsive to each other among the neediest aid recipients and that they compete for rival goals when and where their interests are strongest and pass the buck when and where their interests are less salient.

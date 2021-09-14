@@ -122,14 +122,15 @@ As scientists, we rely on theories to help us make sense of the world. We furthe
 
   1. Waltz, Kenneth. 1979. "Laws and Theories." In *Theory of International Politics*. Long Grove: Waveland Press.
   2. Clarke, Kevin A. and David M. Primo. 2007. "Modernizing Political Science: A Model-based Approach." *Perspectives on Politics* 5(4): 741-753.
+  3. Johnson, James. 2021. "Models-as-Fables: An Alternative to the Standard Rationale for Using Formal Models in Political Science." *Perspectives on Politics* 19(3): 874-89.
 
 
 ### Epistemology
 
-  3. Lakatos, Imre. 1970. "Falsification and the Methodology of Scientific Research Programmes." In *Criticism and the Growth of Knowledge*. Eds. Imre Lakatos and Alan Musgrave. New York: Cambridge University Press.
-  4. Vasquez, John A. 1997. "The Realist Paradigm and Degenerative Versus Progressive Research Programs: An Appraisal of Neotraditional Research on Waltz's Balancing Proposition." *The American Political Science Review* 91(4):899-912.
-  5. Laudan, Larry. 1990. "Progress and Cumulativity." In *Science and Relativism: Some Key Controversies in the Philosophy of Science*. Chicago: University of Chicago Press.
-  6. Walt, Stephen M. 1997. "The Progressive Power of Realism." *The American Political Science Review* 91(4): 931-935.
+  4. Lakatos, Imre. 1970. "Falsification and the Methodology of Scientific Research Programmes." In *Criticism and the Growth of Knowledge*. Eds. Imre Lakatos and Alan Musgrave. New York: Cambridge University Press.
+  5. Vasquez, John A. 1997. "The Realist Paradigm and Degenerative Versus Progressive Research Programs: An Appraisal of Neotraditional Research on Waltz's Balancing Proposition." *The American Political Science Review* 91(4):899-912.
+  6. Laudan, Larry. 1990. "Progress and Cumulativity." In *Science and Relativism: Some Key Controversies in the Philosophy of Science*. Chicago: University of Chicago Press.
+  7. Walt, Stephen M. 1997. "The Progressive Power of Realism." *The American Political Science Review* 91(4): 931-935.
 
 
 ##  `r advdate(mon, 4)`: Levels of Analysis
@@ -247,7 +248,7 @@ Some theories treat states as fundamentally similar units. However, a literature
 
 ##  `r advdate(mon, 14)`: Global Issues, the Commons, and Diffusion
 
-International politics, or global politics? Many issues facing states now, and even throughout much of the modern age are properly *global* in nature. Interconnections among nations, diffusion of norms, and global public goods all complicate the distinctions we usually draw between the preferences and utility of one state vis-a-vis others.
+Many issues facing states now, and even throughout much of the modern age are properly *global* in nature. Interconnections among nations, diffusion of norms, and global public goods all complicate the distinctions we usually draw between the preferences and utility of one state vis-a-vis others.
 
   1. Hardin, Garrett. 1968. "The Tragedy of the Commons." *Science* 162(3859): 1243-48.
   2. Ostrom, Elinor, Joanna Burger, Christopher B. Field, Richard B. Norgaard, and David Policansky. 1999. "Revisting the Commons: Local Lessons, Global Challenges." *Science* 284(5412): 278-82.
@@ -266,7 +267,7 @@ Review readings and/or read ahead.
 
 ##  `r advdate(mon, 16)`: International Order and Hierarchy
 
-Though they have some authority, historically IR places the sovereign state as *the* highest kind of authority that can exist. In this final week of the course, we'll consider alternative perspectives. Is the structure of the international system fundamentally anarchical, or does it have hierarchy? And if it does, what are the implications?
+Historically IR has treated the sovereign state as *the* highest kind of authority that can exist. In this final week of the course, we'll consider alternative perspectives. Is the structure of the international system fundamentally anarchic, or does it have hierarchy? And if it does, what are the implications?
 
   1. Trachtenberg, Marc. 2006. "The Problem of International Order and How to Think about It." *The Monist* 89(2): 207-31.
   2. Lake, David A. 2009. *Hierarchy in International Relations*. Cornell University Press.
