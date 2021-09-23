@@ -3,7 +3,7 @@ output:
     stevetemplates::cv
 geometry: margin=1in
 
-title: "Diversity Statement"
+title: "Diversity Statement for University of Missouri"
 author: Miles D. Williams
 
 jobtitle: Department of Political Science, University of Illinois at Urbana-Champaign

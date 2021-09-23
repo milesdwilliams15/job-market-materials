@@ -1,0 +1,60 @@
+---
+output: 
+    stevetemplates::cv
+geometry: margin=1in
+
+title: "Reference Contact Information for University of Nevada, Las Vegas"
+author: Miles D. Williams
+
+jobtitle: Department of Political Science, University of Illinois at Urbana-Champaign
+address: "David Kinley Hall · 1470 W Gregory Drive · Urbana IL, 61801"
+email: "milesdw2@illinois.edu"
+# github: "milesdwilliams15"
+phone: "618-663-9499"
+web: "milesdwilliams15.github.io"
+fontawesome: yes
+updated: false
+
+fontfamily: cochineal
+fontsize: 12pt
+linkcolor: blue
+urlcolor: blue
+---
+
+\bigskip
+
+Below is a list of my professional references and their contact information. The address for the Department of Political Science at the University of Illinois is:
+
+> 420 David Kinley Hall MC-713
+
+\vspace{-10pt}
+
+> 1407 W Gregory Drive
+
+\vspace{-10pt}
+
+> Urbana, IL 61801
+
+I have noted the office number for each reference (in paretheses) next to their name.
+
+**Matthew Winters** (315 DKH)
+
+  - email: \text{mwinters@illinois.edu}
+  - phone: 917-929-5965 (mobile)
+  
+**Xinyuan Dai** (328C DKH)
+
+  - email: \text{xdai@illinois.edu}
+  - phone: (217) 333-3881 (office)
+  
+**Robert Pahre** (328 DKH)
+  
+  - email:  \text{pahre@illinois.edu}
+  - phone: (217) 333-3881 (office)
+  
+**Robert Carroll** (415 DKH)
+
+  - email: \text{rjc@illinois.edu}
+  - phone: (217) 300-9964 (mobile)
+  
+  
