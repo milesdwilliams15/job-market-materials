@@ -1,0 +1,37 @@
+---
+output: 
+    stevetemplates::cv
+geometry: margin=1in
+
+title: "Diversity Statement for Purdue University"
+author: Miles D. Williams
+
+jobtitle: Department of Political Science, University of Illinois at Urbana-Champaign
+address: "David Kinley Hall · 1470 W Gregory Drive · Urbana IL, 61801"
+email: "milesdw2@illinois.edu"
+# github: "milesdwilliams15"
+phone: "618-663-9499"
+web: "milesdwilliams15.github.io"
+fontawesome: yes
+updated: false
+
+fontfamily: cochineal
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+\vspace*{10mm}
+I have enjoyed my share of privileges and endured my share of hardships in life. The former give me the opportunity to recognize and, where I am able, to support inclusivity in work and in life. The latter provide a basis for empathy, for seeing the world and others' circumstances from another perspective than my own. These two factors---opportunity and empathy---are necessary and sufficient for a genuine interest in supporting intellectual and cultural diversity in any academic institution.
+
+I enjoy a station in life that in most respects I do not deserve yet nonetheless have. I am a Ph.D. candidate studying at a fine institution. I am not wealthy, but my spouse and I are able to afford a comfortable life. Though my work at times is a source of stress, I have the unique privilege of serving in a profession that gives me a sense of purpose and is even a source of joy. I get to seek answers to questions that I find interesting and that are important, and I get to educate others about the answers I find.
+
+The uncommon privileges that come with being an academic come with similarly uncommon responsibilities. At a formative period in their lives you are in a position to guide students, to not only teach them something new but also to give them new ways to think. Further, you are in a position to produce knowledge, knowledge that may address societal problems, power, or inequity. Also, you have the opportunity to support the work of colleagues who address questions that can seem timeless and weighty beyond what you dare address in your own work.
+
+These are terrible responsibilities born by academics but also ones that we are uniquely positioned to bear. As a member of the academy, I aspire to live up to these responsibilities, to make it my duty to serve others and humbly support students and colleagues in every capacity that I have.
+
+The necessity of living up to these responsibilities has been revealed to me by my own struggles. I have a privileged station as an academic. I also am a white, cisgender, heterosexual male. But like all individuals life has not been uniformly easy. During my high school years my family never starved, but we endured significant financial instability as my father struggled to find consistent employment. While I had the great blessing to be able to attend a private liberal arts university for my undergraduate education, I often struggled with bouts of depression and occasional suicidal thoughts. At the same time I had the great joy of attending graduate school, completing a master's degree, and going on to begin doctoral studies, my father began a years long and painful struggle with chronic leukemia---a struggle that was ultimately lost two years into my Ph.D. studies. Navigating that loss amid my studies was difficult, and there were moments I doubted I could continue. Only a year before my father's passing, my spouse developed a chronic health condition, one that can be painful and life-threatening if not properly managed. She has now battled this condition for three years and will continue to for the rest of her life.
+
+Dealing with these personal and interpersonal traumas and trials has taught me that no one enters the classroom, their workplace, or their research *only* as a student, a faculty member, or scholar. They enter these tasks as a *whole* person, either feeling light from their victories or heavy from losses. For this reason, scholarship and teaching is necessarily a collaborative exercise, one that is impossible to carry on without the support of colleagues, mentors, and friends. In the midst of the struggles I have faced, I would not enjoy the position I have in life now if not for the support of others in my life. Whether sources of struggle for others are interpersonal or structural, economic or social, racial or ethnic, gender or sexual-orientation based, I hope I can provide future colleagues and students an ounce of the support I have been blessed to receive. 
+
+I therefore hope to have opportunities to actively engage in the promotion of diversity and inclusivity at Purdue and the broader community. Whether that looks like participation in seminars, active outreach, mentoring, or volunteering in department and community activities, I am eager to serve.

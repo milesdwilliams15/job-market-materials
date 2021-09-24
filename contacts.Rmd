@@ -3,7 +3,7 @@ output:
     stevetemplates::cv
 geometry: margin=1in
 
-title: "Reference Contact Information for University of Nevada, Las Vegas"
+title: "Reference Contact Information"
 author: Miles D. Williams
 
 jobtitle: Department of Political Science, University of Illinois at Urbana-Champaign

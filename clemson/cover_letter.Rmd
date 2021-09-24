@@ -3,7 +3,7 @@ output:
     stevetemplates::cv
 geometry: margin=1in
 
-title: "Cover Letter"
+title: "Cover Letter for Clemson University"
 author: Miles D. Williams
 
 jobtitle: Department of Political Science, University of Illinois at Urbana-Champaign
@@ -27,7 +27,7 @@ Dear Search Committee,
 
 \bigskip
 
-I am writing this letter to express my interest in the open faculty appointment at your university. I am a doctoral candidate in the Department of Political Science at the University of Illinois, and I expect to defend my dissertation by June 2022 under the supervision of Matt Winters, Xinyuan Dai, Bob Pahre, and Rob Carroll. 
+I am writing this letter to express my interest in open position of Assistant Professor specializing in International Relations at your department at Clemson University. I am a doctoral candidate in the Department of Political Science at the University of Illinois, and I expect to defend my dissertation by June 2022 under the supervision of Matt Winters, Xinyuan Dai, Bob Pahre, and Rob Carroll. 
 
 My primary research agenda centers on the political economy of foreign aid. I have special interest in identifying the foreign policy goals countries pursue through their aid allocation and in explaining the strategic responses among leading foreign aid donors to each other as they allocate aid to developing countries. To address these issues, I rely on various tools, from formal theory to machine learning, as well as classical econometric techniques.
 
