@@ -1,0 +1,78 @@
+---
+output: 
+    stevetemplates::cv
+geometry: margin=1in
+
+title: "Cover Letter for Niehaus Center"
+author: Miles D. Williams
+
+jobtitle: Department of Political Science, University of Illinois at Urbana-Champaign
+address: "David Kinley Hall · 1470 W Gregory Drive · Urbana IL, 61801"
+email: "milesdw2@illinois.edu"
+# github: "milesdwilliams15"
+phone: "618-663-9499"
+web: "milesdwilliams15.github.io"
+fontawesome: yes
+updated: false
+
+fontfamily: cochineal
+fontsize: 12pt
+linkcolor: blue
+urlcolor: blue
+---
+
+\bigskip
+
+To whom it may concern,
+
+\bigskip
+
+I am writing this letter to express my interest in the Niehaus Postdoctoral Fellowship Program. I am a doctoral candidate in the Department of Political Science at the University of Illinois, and I expect to defend my dissertation by June 2022 under the supervision of Matt Winters, Xinyuan Dai, Bob Pahre, and Rob Carroll. 
+
+My primary research agenda centers on the political economy of foreign aid. I have special interest in identifying the foreign policy goals countries pursue through their aid allocation and in how these goals shape strategic interdependence among leading donor governments as they target aid to developing countries. To address these issues, I rely on various tools, from formal theory to machine learning, as well as classical econometric techniques.
+
+In my dissertation, I home in on the issue of strategic interactions among bilateral aid donors. Starting from the assumption that leading industrialized countries target economic assistance to developing countries in order to maximize wide-ranging foreign policy interests, I consider how their aid allocations generate a mix of positive and negative foreign policy externalities for one another---and the implications thereof.
+
+In the first chapter of my dissertation I rely on a game-theoretic model of a political economy of aid to refine intuitions about strategic interdependence among donors. With this model, I gain greater insight into a timely question in international development: *why do donor governments struggle to collaborate in the distribution of foreign aid to developing countries?* Implicit in this question is the presumption that collective provision of aid yields mutual foreign policy gains for donors. However, analysis of the model demonstrates that collective solutions do not always Pareto improve on individual best-responses. That is, in many scenarios the choice between individual and collective optimization can lead to conflicting payoffs between donors. While one donor may do much better under a collective solution, the other will do worse. This highlights a potential source of friction that may explain the stunted progress in donor collaboration to-date.
+
+The model further provides guidance for conducting empirical analysis. It does not yield testable predictions as such, but analysis of best-responses that are possible across the parameter space underscore that in a world where donors have rival interests in some recipients and common interests in others the estimated relationship between where other donors and an individual donor allocate aid are uninformative about whether donors compete or free-ride---unless care is taken to localize estimated responses *within* a set of recipients that are sites of rivalry or common interest.
+
+The remainder of my dissertation deals with empirically identifying *when* and *where* donor governments compete for rival foreign policy gains through aid allocation or pass the buck to others. In doing so, I make a novel contribution to measurement by developing two composite measures that (1) capture leading countries' foreign policy interests with respect to individual developing countries and (2) capture individual developing countries' relative need for economic assistance. Next, using a mix of machine learning and conventional econometrics, I recover evidence, not only that leading donor countries engage in strategic responses to one another as they allocate aid but also that their responses are conditioned by their foreign policy interests and by recipient need. Specifically, I find that donor responsiveness is most prevalent within the neediest recipients. Further, among these recipients, donors respond competitively to peer aid where their foreign policy interests are strongest and deferentially to peer aid where their interests are minimal. These findings shed new light on strategic responses among aid donors by revealing not only that donors strategically target their aid based on the giving of others but also by identifying *when* and *where* these responses are competitive or deferential. 
+
+Following the main empirical analysis I narrow my focus to donor governments' strategic interactions in Southeast Asia and Latin America. This regional focus helps in qualifying the types of goals donors pursue when giving aid to certain developing countries. More than complement the previous analysis, a focus on these regions further provides an opportunity to consider the implications of donor interests for the phenomenon known as *Lead Donorship*. I propose that Lead Donorship emerges as a product of donor self-interest as mediated through variation in the strength of donor governments' foreign policy interests and the depth of recipient development need. 
+
+My findings have implications for international development policy generally and specifically for progress on addressing global issues that industrialized countries seek to address through international development finance such as climate change, international migration, and state fragility. Donor governments may pass the buck on these problems that are of mutual interest while they direct more of their resources toward competing for rival material, strategic, and social returns for allocating aid elsewhere.
+
+Beyond my dissertation, I also maintain a research agenda focused on the determinants and impacts of aid allocation broadly construed. In one paper I was invited to revise and resubmit to *International Studies Quarterly*, I examine how donor interests in supporting bilateral trade, minimizing unwanted migration, and helping a strategically valuable country influence how they differently target economic assistance in developing countries experiencing civil war and those at peace. In another work-in-progress in collaboration with Lucie Lu (University of Illinois), we explore the intersection of aid allocation and media coverage of aid recipients in the context of China's foreign aid program. In this project we rely on the Archer web application recently developed by the Cline Center for Advanced Social Research to collect data on *Xinhua* news articles that mention countries that receive foreign aid from China. We merge country mentions and article sentiment data with information on Chinese bilateral aid allocations compiled by AidData to assess whether coverage of recipients in Chinese media influence where officials target aid. This is a question that has been considered in democratic contexts but not in authoritarian ones as in the case of China.
+
+I further have an interest in the politics of multilateral development institutions. I recently coauthored a chapter on the history of and issues related to the World Bank with Matt Winters for the *Handbook of International Organizations: Theories, Concepts and Empirical Insights*. I also have a working paper that explores theoretically and empirically the tension besetting institutions like the World Bank to bend to the interests of their most influential donors versus targeting their loan and grant allocations to the most deserving recipients.
+
+In addition to my foreign aid research, I also maintain a research agenda centered on political methodology and applications of text-as-data. With respect to the latter, in a pair of papers coauthored with Ryan Burge at Eastern Illinois University, we use text-as-data methods to understand political communication in the domain of religion. In an article published in the *Journal of Communication and Religion*, we applied a combination of natural language processing, descriptive analysis, and sentiment analysis to shed new light on the differential political communications of clergy in their sermons on the basis of gender. In another article published in the *Journal of Religion, Media, and Digital Culture*, we explored a novel dataset of Tweets made by more than 80 prominent Protestant Evangelical leaders with an eye to the most common themes in their communications and to their messaging on political issues.
+
+My methodological research further extends to an interest in finding innovative uses of machine learning for causal inference and extensions of model-based approaches to testing theoretical models. In one ongoing project, I propose a novel application of random forests to the problem of regression adjustment. In addition to developing an R package for implementing this approach to regression adjustment, I detail the method in a manuscript that I plan to place under review in the spring semester. In another project, I build upon an existing model-based approach to estimating a "strategic autoregressive model" (StratAM) and currently have a related R package under development for implementing the method.
+
+In addition to the above, for the past year and a half I have actively supported policy evaluation for the federal government. Since May 2020 I have served as an Associate Fellow specializing in methods at the U.S. Office of Evaluation Sciences (OES). OES is a federal agency that relies on a cross-disciplinary team of social and behavioral scientists to help federal government partners build and use evidence. In my role on the OES Methods Team, I consult on the development of research designs, support quality control for OES projects by conducting blind reanalyses for evaluations conducted by other team members, and contribute to the development of guidance documents and data visualization tools for OES. I also have played a direct role in collaborating on evaluations. For instance, I have supported rapid evaluation of pandemic relief stood up by large US metros for small businesses. This work was done in partnership with the Small Business Administration and was a priority issue for the Biden Administration. This timely and high profile work will develop into multiple manuscripts for publication in highly ranked peer reviewed journals in public policy and administration.
+
+I have no doubt that a postdoctoral fellowship with the Niehaus Center will function as a pivotal incubator for scholarly success, productivity, and service. My long-term goals center on both the arc of my career as a scholar and the arc of my career as an educator. My near- and long-term research of course will include continuing to study donor goals and inter-donor strategy in allocating aid and the role of multilateral institutions in development finance. I also will actively maintain a research agenda centered on methodological innovations that serve the goals of political scientists more generally. Finally, I hope to maintain a lasting relationship with federal government stakeholders to support continued research into issues related to the effective and equitable distribution of federal aid and other problems that have direct impact on the lives of individuals (both domestic and foreign) who benefit from government services. 
+
+In addition to being a productive scholar, I look forward to an impactful career teaching courses in international relations, political economy, research design, quantitative methods, and formal theory as a future faculty member in higher education. At Illinois, I have facilitated discussion sections in Intro to Political Science and have served as the instructor of record for Intro to International Relations. For the past four years, I also have served as a math camp instructor for incoming graduate students entering Illinois' Ph.D. program in political science. Sessions I have taught include linear regression and OLS, probability, calculus, and version control. In my teaching, I have found ways to promote rigor while simultaneously demonstrating compassion for my students. The latter is a much needed virtue in a world where individuals face racial, ethnic, class, gender, and sexual-orientation based forms of discrimination. I have gained a significant sense of purpose serving in these roles, and my trajectory as a scholar will only magnify my capacity as an educator.
+
+I believe my experience and qualifications make me well suited to the scholarly mission and interdisciplinary life of the Niehaus Center. I would be humbled to benefit from, and have the opportunity to contribute to, the vocational work of this community of scholars. 
+
+\bigskip
+
+Sincerely,
+
+Miles D. Williams
+
+\vspace{-10pt}
+
+Ph.D. Candidate
+
+\vspace{-10pt}
+
+Department of Political Science
+
+\vspace{-10pt}
+
+University of Illinois at Urbana-Champaign

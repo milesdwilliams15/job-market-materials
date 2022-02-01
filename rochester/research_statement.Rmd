@@ -1,0 +1,79 @@
+---
+output: 
+    stevetemplates::cv
+geometry: margin=1in
+
+title: "Research Proposal"
+author: Miles D. Williams
+
+jobtitle: Department of Political Science, University of Illinois at Urbana-Champaign
+address: "David Kinley Hall · 1470 W Gregory Drive · Urbana IL, 61801"
+email: "milesdw2@illinois.edu"
+# github: "milesdwilliams15"
+phone: "618-663-9499"
+web: "milesdwilliams15.github.io"
+fontawesome: yes
+updated: false
+
+fontfamily: cochineal
+fontsize: 12pt
+linkcolor: blue
+urlcolor: blue
+header-includes:
+  - \usepackage{subfig}
+  - \usepackage{graphicx}
+---
+
+\vspace*{10mm}
+
+\Large
+\begin{center}
+\textbf{A Research Proposal}
+\end{center}
+\normalsize
+
+In my dissertation I examine foreign aid allocation as an arena in which donor governments compete to maximize their respective foreign policy goals. I consider *when* and *where* donors compete with each other for rival foreign policy gains or pass the buck in order to reap the benefits of other-donor aid without having to expend their own resources. I also explore how these dynamics explain when and where *lead donorship*---a scenario where one donor has sole or majority responsibility for giving aid to a recipient---arises. I find that the interaction of donor interest (DI) and recipient need (RN)---two well-established sets of factors that predicate donor aid allocations---condition when and where donors compete or pass the buck and, further, when and where lead donorship emerges. 
+
+Specifically, I find that donors are most responsive to where others give aid in high need recipients, competing when and where donors' interests are strongest and deferring responsibility for giving aid when and where their interests are minimal. This pattern of responses results in lead donorship emerging in high need recipients where one donor has greatest foreign policy interest relative to other donors.
+
+While my dissertation considers these strategic dynamics in the context of foreign aid, they surely extend to other foreign policy tools. Relevant examples include preferential trade agreements (PTAs) and bilateral investment treaties (BITs), which may function as instruments for accomplishing a wide range of foreign policy goals.
+
+*Do we observe similar patterns of competition, deference, and leadership in these other forms of bilateral interaction between industrialized and developing countries?* I propose to answer this question by considering PTAs and BITs signed and ratified between developed country and developing country governments.
+
+
+## Motivation
+
+In one chapter of my dissertation I home in on *when* and *where* donor governments compete or pass the buck in aid allocation. Using composite measures of donor interest (DI) and recipient need (RN), I find that donor responses to each other are most pronounced among recipients with greatest need for aid. Further, in these recipients, donors compete where their interests in a recipient are strongest and pass the buck to others where their interests are minimal. 
+
+These identified patterns have implications for a phenomenon Steinwand (2015) calls *lead donorship*---a condition where a single donor government provides exclusive or majority support for a developing country. I take up this issue in a subsequent chapter of my dissertation where I argue, and find supporting evidence, that lead donorship emerges as a consequence of variation in donor competition and deference. Specifically, a donor is most likely to have lead donor status when it has greatest interest in a recipient and that recipient has relatively greater development need. 
+
+\begin{figure}
+  \centering
+  \subfloat[2SLS Estimates]{{\includegraphics[width=7cm]{marginal_effects.png}}}
+  \qquad
+  \subfloat[Lead Donor Predictions for U.S.]{{\includegraphics[width=7cm]{lead_donor_preds.png}}}
+  \caption{Results from analyses 1 and 2.}
+\end{figure}
+
+I have included a figure of the main findings from each analysis. The left panel shows the estimated relationship between peer aid and the giving of an individual donor given different values of DI and RN. In estimating the model, I applied the inverse hyperbolic sine transformation, which means the results can be interpreted approximately as elasticities or the percent change in the response given a percent change in peer aid. The model was specified with a three-way interaction between peer aid, RN, and DI. Low and high values of need and interest indicate minus or plus one standard deviation relative to the mean respectively. As previewed earlier, the estimates reveal two key regularities in donor responses. First, donors are most responsive to the aid commitments of fellow DAC members the greater the level of development need in recipients. Second, in high need recipients the strength of donors' non-development foreign policy goals determines whether donors compete or pass the buck. In high need recipients, when donors' interests are relatively strong, they appear to respond competitively to the aid commitments of peers. Conversely, donors respond deferentially to peer aid in high need recipients where their interests are minimal.
+
+These patterns imply that a donor is most apt to have lead donor status when and where it has the greatest foreign policy interest in a recipient relative to other donors and when the recipient has greater development need. This is confirmed by the second analysis, the results of which are shown in the right panel of the figure. Shown are the predicted share of years (transformed to the unit interval) a donor has lead donor status with respect to a given recipient. Values are shown across the possible parameter space for average DI share and average RN. Predictions were generated from a model that included a two-way interaction between DI share and RN and donor intercepts. In this model, all estimates were statistically significant, including the interaction term, which also was positively signed.
+
+These patterns speak to important and ongoing academic and policy debates about donor collaboration and interactions. However, surely the dynamics that play out in aid allocation apply to other foreign policy tools, as well. After all foreign aid is not the only tool industrialized countries may use to further their goals. PTAs and BITs, for example, may follow similar logics with equally important consequences.
+
+
+## Design
+
+The research design of the proposed manuscript will consist of two parts. The first will center on when and where industrialized countries compete or show deference in signing PTAs and BITs with developing countries. The second will center on when and where industrialized countries dominate in each of these types of agreements. For each, I will rely on PTA and BIT measures from the dyad-year World Economics and Politics Dataverse dataset merged with data on bilateral factors associated with the importance of developing countries to industrialized ones and developing country characteristics associated with need. The former set of covariates---which include measures of bilateral trade, former colonizer status, military alliances, and bilateral distance---are the same as those used to construct a composite measure of industrialized country interest in a developing country in the context of foreign aid. The latter set of covariates---which include measures of average income, population size, political and civil liberties, natural disaster deaths, and civil war---are used to construct a composite measure of developing country need. 
+
+With these measures, to address the first question I will estimate how the likelihood of a PTA or BIT between an industrialized country and developing country is influenced by the presence of a PTA or BIT between a developing country and other industrialized countries. I will interact measures of other-dyad PTAs/BITs with measures of interest and need and will take an instrumental variables approach, using aggregate peer interest as an instrument other-dyad agreements. For the second question, I will collapse the panel time-series by dyad and model the proportion of years an industrialized country is coded as a dominant PTA/BIT signatory with a developing country---where the criteria set out in Steinwand (2015) will guide the construction of a measure of dominance in PTAs and BITs. This outcome will be modeled as a function of an industrialized country's average relative share of interest interacted with a developing country's average need for the sample period. The outcome will be logit transformed to ensure the response is not bound to the unit interval. Collapsing the data in this way is justified on the basis that leadership implies a time component---its endurance is just as critical as its existence at a given point in time.
+
+Alignment of the findings of this proposed analysis with those identified in my dissertation would serve to illuminate a generalized pattern of interactions between industrialized countries in their relations with developing countries. Alternatively, different patterns in responses will highlight how different foreign policy tools lend themselves to different strategic considerations among industrialized country governments.
+
+
+
+## References
+
+Bermeo, Sarah B. 2018. *Targeted Development: Industrialized Country Strategy in a Globalizing World.* Oxford University Press: New York.
+
+Steinwand, Martin C. 2015. "Compete or Coordinate? Aid Fragmentation and Lead Donorship." *International Organization* 69(2): 443-72.

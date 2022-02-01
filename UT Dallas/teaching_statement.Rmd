@@ -3,7 +3,7 @@ output:
     stevetemplates::cv
 geometry: margin=1in
 
-title: "Teaching Statement"
+title: "Teaching Statement for the Universty of Texas at Dallas"
 author: Miles D. Williams
 
 jobtitle: Department of Political Science, University of Illinois at Urbana-Champaign

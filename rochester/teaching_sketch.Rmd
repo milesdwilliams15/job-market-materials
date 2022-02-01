@@ -1,0 +1,45 @@
+---
+output: 
+    stevetemplates::cv
+geometry: margin=1in
+
+title: "Proposed Courses"
+author: Miles D. Williams
+
+jobtitle: Department of Political Science, University of Illinois at Urbana-Champaign
+address: "David Kinley Hall · 1470 W Gregory Drive · Urbana IL, 61801"
+email: "milesdw2@illinois.edu"
+# github: "milesdwilliams15"
+phone: "618-663-9499"
+web: "milesdwilliams15.github.io"
+fontawesome: yes
+updated: false
+
+fontfamily: cochineal
+fontsize: 12pt
+linkcolor: blue
+urlcolor: blue
+header-includes:
+  - \usepackage{subfig}
+  - \usepackage{graphicx}
+---
+
+\Large
+\begin{center}
+\textbf{A Sketch of Proposed Courses}
+\end{center}
+\normalsize
+
+\vspace*{10mm}
+
+
+In past years, the Skalny Center at the University of Rochester has offered several courses in international relations and polical economy that I would be interested, and qualified, to teach. Such courses include:
+
+**Theories of International Relations (IR/PSC 272)** This course would survey the range of theoretical traditions and debates in the field of International Relations. More analytical than subtantive in focus, this course, in addition to incorparating selected cannonical readings in IR, would rely on Daniel Drezner's *Theories of International Politics and Zombies, Revived Ed.* to introduce students to theoretical frameworks and controversies in IR. 
+  
+**International Organization (PSC 568/IR 268)** The purpose of this course would be to introduce students to perspectives on international cooperation and international institutions. Relying on Ian Hurd's *International Organizations: Politics, Law, Practice, Third Ed.*, students would be taken on a tour of leading international institutions and, with the help of in depth case studies, consider the practical and theoretical relevance of international organizations for international politics.
+  
+**International Political Economy (IR/PSC 274)** This course would introduce students to the field of IPE, its historical development and trajectory, and its theoretical schools of thought. In addition to relying on Benjamin Cohen's *International Political Economy: An Intellectual History*, the course will include selected readings that center on the "four horsemen"\footnote{I owe this term to Robert Pahre in his graduate seminar on IPE at UIUC.} of IPE: (1) monetary policy, (2) trade, (3) international finance, and (4) migration.
+
+**Political Economy of Developing Countries (IR 286W)** This course would examine the interactions between markets and politics in the context of developing countries. In addition to covering theoretical and empirical questions related to the impact of economics on politics, and of politics on economics, it will consider how the interaction of markets and politics relate to issues like democratization, interest groups, and globalization. We will sample connonical readings ranging from Adam Smith's *The Wealth of Nations* to Freidrich Hayek's *The Road to Serfdom.* We will also survey the latest contemporary research on issues directly related to ongoing debates about the causes and consequences of economic development.
+  

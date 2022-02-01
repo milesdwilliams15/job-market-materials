@@ -1,0 +1,116 @@
+---
+output: 
+    stevetemplates::cv
+geometry: margin=1in
+
+title: "Research Statement"
+author: Miles D. Williams
+
+jobtitle: Department of Political Science, University of Illinois at Urbana-Champaign
+address: "David Kinley Hall · 1470 W Gregory Drive · Urbana IL, 61801"
+email: "milesdw2@illinois.edu"
+# github: "milesdwilliams15"
+phone: "618-663-9499"
+web: "milesdwilliams15.github.io"
+fontawesome: yes
+updated: false
+
+fontfamily: cochineal
+fontsize: 12pt
+linkcolor: blue
+urlcolor: blue
+---
+
+\vspace*{10mm}
+To the Penn Development Research Initiative (PDRI),
+
+I write this research statement to express my interest in, and document my qualifications for, a post doctoral fellowship with PDRI for the 2022-2023 academic year (and beyond). I am a doctoral candidate in the Department of Political Science at the University of Illinois, and I expect to defend my dissertation by May 2022 under the supervision of Matt Winters, Xinyuan Dai, Bob Pahre, and Rob Carroll. 
+
+My research falls under three umbrellas: (1) the political economy of foreign aid; (2) political methodology; and (3) public policy. With respect to the first, I have special interest both in identifying the foreign policy goals countries pursue through their aid allocation, and in studying how aid giving serves as an arena in which donor governments compete to maximize foreign policy goals. To address these issues, I rely on various tools, from game theory to machine learning, as well as classical econometric techniques. 
+
+The second agenda centers on novel applications of machine learning in observational data, text-as-data techniques, and extensions of existing approaches for testing theoretical models. Some of this research intersects with the politics of foreign aid but also extends to other contexts of interest to political scientists such as religion in politics and political communication. 
+
+The last research agenda comes out of work I have done while serving as an Associate Fellow with the Federal Office of Evaluation Sciences. In collaboration with a cross-disciplinary team of scholars, I have contributed to public policy research on issues ranging from vaccine uptake to small business survival in the wake of COVID-19. This research involves the use of randomized controlled trials, as well as quasi-experimental designs and observational studies.
+
+
+# The Political Economy of Aid
+
+## Identifying Donor Interests
+
+My aid research follows two related themes. The first centers on identifying the foreign policy goals that motivate aid giving by donor governments. The second centers on how donor interests shape their strategic responses to the aid allocated by others. The former research deals with an enduring puzzle in international politics: *why do the governments of industrialized countries give economic assistance to developing countries?* Political scientists and economists have sought answers to this question for decades, giving birth to a mammoth and diverse corpus of research. 
+
+My own research contributes to this literature in a number of ways. In one solo authored study, for which I have a revise and resubmit at *International Studies Quarterly*, I examine how donors differently respond to ongoing conflicts with foreign aid given the social, economic, and strategic importance they place on aid recipients. I find that recipients that are important to donors receive disproportionately more aid when they experience civil war than similarly important countries at peace. Conversely, unimportant civil war states receive disproportionately less aid. These findings have normative significance for two reasons. First, they highlight that countries experiencing civil war may receive inequitable support from donor governments on the basis of the social, economic, and strategic interests of the latter. Second, given recent findings that donors' nondevelopment goals may hinder recipient development, the pattern in donor responses to civil war suggest that donors distribute aid in ways that hurt the very recipients they deem most important.  
+
+In another ongoing project in collaboration with Lucie Lu (University of Illinois) study the link between Chinese foreign aid and Chinese media coverage of its aid recipient countries in *Xinhua* (China's state-run news agency). We leverage *AidData*'s dataset on China's bilateral ODA-like financing, which we merge with metadata on *Xinhua* articles that mention recipient countries. The latter data we obtained from the Cline Center's Archer web portal. This is a new application developed by the Cline Center at the University of Illinois to facilitate access to its Global News Index. With this data, we seek an answer to the question: *is China's aid policy responsive to media coverage of developing countries?* While the role of media coverage in shaping the aid policies of prominent democratic donor governments has been considered by other scholars, our study adds to this literature by considering the role of media in an authoritarian context. Our preliminary results demonstrate that, like democratic donors, China appears to be responsive to recipient coverage in *Xinhua*. We plan to have a final manuscript prepared by the beginning of the Spring semester and will present our results at the annual Midwest Political Science Association conference this April.
+
+
+## Strategic Donor Government Responses
+
+The second theme in my aid research centers on donor government interactions. This issue forms the core of my dissertation. I start with the assumption that leading industrialized countries target economic assistance to developing countries in order to maximize wide-ranging foreign policy interests. But, as they do so, the aid allocated by one produces a mix of positive and negative foreign policy externalities for all others, and vice versa. In addressing this issue, I make contributions to theory, measurement, and empirics.
+
+I first develop and analyze a two-donor, two-recipient game theoretic model. I deduce best-responses among aid donors, and the welfare implications of these best-responses. My key finding is that the most likely outcome in equilibrium is inefficient competitive waste. Donors direct more of their aid budgets to recipients where rivalry is most pronounced, and away from recipients where they share more common interests. If they could agree to cooperate, a more efficient solution would entail mutually diverting some aid away from recipients that are sites of rival foreign policy gains, and to recipients that are sites of mutual interest. However, a number of factors may complicate donor cooperation. The key normative contribution of the model is that it demonstrates the existence of many situations in which donors do not mutually benefit from cooperating. This may portend problems in interactions between traditional donors and China, and even among democratic donors and allies like the United States and the United Kingdom.
+
+The remainder of my dissertation is dedicated to identifying when and where donor governments compete for rival foreign policy interests or else defer (or pass the buck) to others. In doing so, I make a novel contribution to measurement by developing two composite measures. The first captures the strength of leading countries' foreign policy interests with respect to individual developing countries. The second captures individual developing countries' relative need for economic assistance. With these measures in hand, I then use a mix of machine learning and conventional econometric techniques to recover evidence that leading donor countries engage in heterogeneous strategic responses to one another given the strength of their interests and recipient needs. Specifically, I am able to identify the conditions under which donor responses are driven by rivalry or incentives to pass the buck. I find that donor responsiveness to one another is most prevalent among the recipient countries with greatest need for aid. Among these recipients, donors respond competitively to peer aid when and where their foreign policy interests are strongest, and deferentially to peer aid when and where their interests are minimal. These findings shed new light on strategic responses among aid donors by revealing not only that donors strategically target their aid based on the giving of others, but also by identifying *when* and *where* these responses are competitive or deferential. 
+
+Outside of my dissertation, my interest in donor interactions extends to the politics of multilateral development institutions. On this front, I recently coauthored a chapter on the history and issues related to the World Bank with Matthew Winters for the *Handbook of International Organizations: Theories, Concepts and Empirical Insights*. In an additional ongoing project I explore theoretically and empirically the tension besetting institutions like the World Bank to bend to the interests of its most influential donors versus targeting its loan and grant allocations to the most deserving recipients. I develop a decision theoretic model of multilateral development agency behavior, which I then extend to an empirical model that allows me to identify the mix of incentives multilaterals face in distributing aid. A draft of the manuscript can be made available upon request.
+
+
+# Methodology
+
+## Text-as-Data
+
+My methodological interests center on (1) text-as-data methods, (2) leveraging machine learning techniques in observational data, and (3) extending and developing methods for empirically testing theoretical models. With respect to the first, in collaboration with Ryan Burge at Eastern Illinois University, we use text-as-data methods to understand political communication in the domain of religion. Our collaboration has resulted in two publications in peer-reviewed journals. 
+
+In an article published in the *Journal of Communication and Religion*, we applied a combination of natural language processing, descriptive analysis, and sentiment analysis to shed new light on differences in political communications in sermons on the basis of gender. Results from our study appeared on the [*Religion in Public*](https://religioninpublic.blog/2019/06/26/do-women-preach-differently-than-men/) blog. 
+
+In another article published in the *Journal of Religion, Media, and Digital Culture*, we explored a novel dataset of 85,000 Tweets made by 88 prominent Protestant evangelical leaders with an eye to the most common themes in their communications, and to their messaging on political issues. At a time when political scientists have wondered about the appeal of Donald Trump to evangelical voters, our study demonstrates useful methods and metrics scholars might apply to study the online messaging of elites to identify how leaders talk about important political issues such as abortion, global terrorism, and fiscal policy.
+
+
+## Machine Learning and Observational Data
+
+I also have an interest in developing new applications of powerful machine learners for aiding in the identification of causal estimates in observational data. In one ongoing project, I propose a novel way to use random forests for adjusting for confounding. The approach is called random forest adjustment (RFA). In working paper, I summarize the procedure and demonstrate its robustness with a series of Monte Carlo experiments. I further demonstrate how to use it with replication data from [Nielsen et al. (2011)](https://www.jstor.org/stable/23025047?seq=1#metadata_info_tab_contents), who test the impact of sudden declines in aid flows on civil war onset in developing countries. In addition to a manuscript summarizing the approach, I also have developed and am actively refining an `R` package called `RFA` that provides convenient tools for implementing the procedure. A copy of the manuscript can be made available upon request. The development version of the package can be accessed [here](https://github.com/milesdwilliams15/RFA). I plan have the manuscript ready for submission by the end of the Fall semester.
+
+
+## Extentending a Strategic Autoregressive Model
+
+I also have an interest in developing and extending methods for testing the empirical implications of theoretical models. In a current work-in-progress I build upon the "strategic autoregressive model" (StratAM) proposed by [Steinwand (2011)](https://www.cambridge.org/core/journals/political-analysis/article/abs/estimating-freeriding-behavior-the-stratam-model/0CBD6176E53848732CEC2C151A491212). The approach is based on a straightforward game-theoretic model of public goods provision. I propose a number of useful extensions of the model (1) to allow for variation in the private/public goods properties of the good being supplied by actors, (2) to account for censored response data, and (3) to account for heteroskedasticity and clustering. To support use of the method in `R`, I have created the `SARM` package. A development version of the package can be found [here](https://github.com/milesdwilliams15/SARM).
+
+
+# Public Policy 
+
+Starting in May 2020, I began work as an Associate Fellow with the Office of Evaluation Sciences (OES) in the U.S. General Services Administration. OES is a cross-disciplinary team of social and behavioral science experts who partner with federal agencies to implement scientific evaluations of existing and new policies. I serve on the Methods Team at OES, where in my role as a methods specialist I conduct in-house blind replication of OES evaluations, consult on project design, and develop methodological guidance and tools for OES team members and external audiences. In a recent contribution to OES guidance, I collaborated with Ryan Moore and Russell Burnett in writing [guidance on data visualization](https://oes.gsa.gov/assets/files/reporting-statistical-results.pdf) for OES randomized trials. I also have developed the `oesr` package in collaboration with Ryan Moore for implementing OES's preferred data visualization style in `R`. The package will be available on CRAN soon.
+
+I further have collaborated directly with OES team members on specific projects. On this front, collaborations have lead to coauthorships on a series of policy relevant research. One project examines the effectiveness of randomized communications to VA clinics on increasing flu vaccination uptake. A [pre-registered analysis plan and findings](https://oes.gsa.gov/projects/1904-increasing-vaccines-performance-feedback/) for this project are available on the OES website. 
+
+Another project in partnership with the Small Business Administration addresses the impact of pandemic relief for small businesses offered by large cities and metros in the U.S. In an expansive effort that required working with various private data vendors and city stakeholders, we have implemented several quasi-experimental designs to test whether assistance offered by cities to small businesses made a significant difference in survival and employment. My contribution to this project has included taking the lead in obtaining, cleaning, and merging millions of rows of credit card transaction data from a leading vendor with administrative data on small businesses that applied for pandemic assistance from major cities. I also played a role in brainstorming an analysis plan and implementing additional exploratory analyses and robustness checks, and I contributed to descriptive analyses and data visualizations used to present results to stakeholders in cities and in the Small Business Administration. This high impact work addresses critical aspects of the Biden Administration's four key priorities and has opened the door to prospective randomized studies with new city partners. The OES website hosts our [pre-registered analysis plan](https://oes.gsa.gov/projects/sd-small-business-relief/) for this project.
+
+Since OES work is intended to inform the policymaking process for federal government partners, a premium is placed on making our methods transparent and accessible to non-technical audiences. OES further values professionalism from all its employees and associates in their capacity as representatives of the federal government. It also demands discretion in dealing with confidential data and communications.
+
+
+# Conclusion
+
+The above summary demonstrates the overall trajectory of my immediate and future research, and is evidence of my productivity as a scholar. My research agenda consists of a complementary mix of theoretical, methodological, and empirical work, and I believe my research interests and methodological background make me uniquely qualified to be a post doctoral fellow with PDRI.
+
+I have a strong substantive interest in the politics of foreign aid and international development. Further, I am well acquainted with advanced causal inference methods given my strong methodological training at Illinois and my applied experience as a methods specialist at OES. In addition to the policy research at OES I highlighted above, I have also directly supported OES's internal replication process for collaborations with USAID that have involved field experiments in aid recipient countries. 
+
+I believe a post doctoral fellowship with PDRI would allow my research to develop in exciting new directions, and I would look forward to productive collaborations with others at PDRI. Thank you for your consideration, and if you have any questions feel free to email or call me any time.
+
+\bigskip
+
+Sincerely,
+
+Miles D. Williams
+
+\vspace{-10pt}
+
+Ph.D. Candidate
+
+\vspace{-10pt}
+
+Department of Political Science
+
+\vspace{-10pt}
+
+University of Illinois at Urbana-Champaign
+
+

@@ -46,17 +46,19 @@ Burge, Ryan and Miles D. Williams. 2019. ["The Use of Social Media by Religious 
 
 ### Working Papers and Works-in-Progress
 
-"Targeting Civil War: Intra-state Conflict and the Opportunity-cost of Foreign Aid." (Revise and Resubmit).
+"Targeting Civil War: Intra-state Conflict and the Opportunity-cost of Foreign Aid." (Under Review).
 
-"Competition and Deference in the Political Economy of Foreign Aid: How Donor Interests and Recipient Need Shape Strategic Reactions in Aid Allocation."
+"Competition and Deference in the Political Economy of Foreign Aid: How Donor Interests and Recipient Need Shape Strategic Reactions in Aid Allocation." (Working Paper)
 
-"Xinhua Coverage of Chinese Foreign Aid Allocations." With Lucie Lu
+"Xinhua Coverage of Chinese Foreign Aid Allocations." With Lucie Lu (Work-in-Progress)
 
-"Leveraging the Black Box: Regression Adjustment via Random Forests."
+"Leveraging the Black Box: Regression Adjustment via Random Forests." (Working Paper)
 
-"How Local Discretion Addresses Competing Allocation Goals: The Case of Small Business Relief Funding." With Rebecca Johnson, Heather Barry Kappes, Crystal C. Hall, Simone Zhang, and Elizabeth Bell.
+"How Local Discretion Addresses Competing Allocation Goals: The Case of Small Business Relief Funding." With Rebecca Johnson, Heather Barry Kappes, Crystal C. Hall, Simone Zhang, and Elizabeth Bell. (Under Review)
 
-"Does Performance Feedback Increase Flu-Vaccination Rates? A Cluster Randomized Trial." with Sebastian Jilke, Pompa Debroy, Rebecca Johnson, Michael Wallace, and Vincent Marconi.
+"Does Performance Feedback Increase Flu-Vaccination Rates? A Cluster Randomized Trial." With Sebastian Jilke, Pompa Debroy, Rebecca Johnson, Michael Wallace, and Vincent Marconi. (Working Paper)
+
+"How Reducing Documentation Burdens Impacts Equity in Program Access: The Case of Small Business Covid-19 Relief Funding." With Elizabeth Bell and Heather Kappes. (Working Paper)
 
 
 ### Book Chapters
@@ -91,7 +93,7 @@ R, RStudio, Latex, Stata, Python
 
 [`RFA`](https://github.com/milesdwilliams15/RFA) - Implements [random forest adjustment](https://rpubs.com/milesdwilliams15/rfa-vignette) (RFA). RFA is a method for partialing out the influence of confoudning covariates via random forests.
 
-[`seerrr`](https://github.com/milesdwilliams15/seerrr) - Tools that simplify the process of doing computational power analysis.
+[`seerrr`](https://github.com/milesdwilliams15/seerrr) - Tools that simplify the process of doing Monte Carlo and computational power analyses.
 
 [`SARM`](https://github.com/milesdwilliams15/SARM) - For estimating a modified version of the Strategic Autoregressive Model developed by [Steinwand (2011)](https://www.cambridge.org/core/journals/political-analysis/article/estimating-freeriding-behavior-the-stratam-model/0CBD6176E53848732CEC2C151A491212).
 
