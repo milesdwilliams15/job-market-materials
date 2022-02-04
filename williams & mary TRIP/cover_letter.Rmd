@@ -1,0 +1,82 @@
+---
+output: 
+    stevetemplates::cv
+geometry: margin=1in
+
+title: "Cover Letter"
+author: Miles D. Williams
+
+jobtitle: Department of Political Science, University of Illinois at Urbana-Champaign
+address: "David Kinley Hall · 1470 W Gregory Drive · Urbana IL, 61801"
+email: "milesdw2@illinois.edu"
+# github: "milesdwilliams15"
+phone: "618-663-9499"
+web: "milesdwilliams15.github.io"
+fontawesome: yes
+updated: false
+
+fontfamily: cochineal
+fontsize: 12pt
+linkcolor: blue
+urlcolor: blue
+---
+
+\bigskip
+
+To affiliates at William and Mary's TRIP project and GRI,
+
+\bigskip
+
+I am writing this letter to express my interest in the Post-Doctoral Fellowship in the Theory and Practice of International Relations at William and Mary's Global Research Institute (GRI). I am a doctoral candidate in the Department of Political Science at the University of Illinois and an Associate Fellow specializing in methods with the federal Office of Evaluation Sciences (OES). I expect to defend my dissertation by May 2022 under the supervision of Matt Winters, Xinyuan Dai, Bob Pahre, and Rob Carroll. 
+
+I am interested broadly in international relations, political economy, statistical methods, and causal inference. My primary research agenda centers on identifying the foreign policy goals and strategic interdependences that shape how industrialized countries to target foreign aid to developing countries. In addition to my aid research, I have collaborated on projects that apply text-as-data methods, and I actively maintain a research agenda centered on developing methods that rely on novel applications of machine learning for causal inference or that build on statistical approaches for testing theoretical models. Also, in my role as a methods specialist for OES, I have spent the last two years supporting a cross-disciplinary team of social and behavioral scientists using experimental, quasi-experimental, and descriptive analyses to evaluate government policies in partnership with U.S. federal agency stakeholders. In addition to my research, I have teaching interests in international relations, international and comparative political economy, statistical methods, and research design.
+
+In my dissertation, I use game theory, classic econometrics, and machine learning to shed light on how foreign aid allocation serves as an arena of both strategic competition and buck-passing among donor governments. While prior research has shown that donors base their aid allocation decisions on the giving of one another, I seek to identify specifically when and where rival or collective benefits among donors predicate their responses.
+
+The first chapter of my dissertation is dedicated to analyzing a game-theoretic model of a political economy of aid. With this model, I gain greater insight into two key questions in foreign aid. First, *why do donor governments struggle to collaborate in the distribution of foreign aid to developing countries?* Second, *why is it so difficult to infer whether donors are competitors for rival gains or free-loaders that try to take advantage of each other's generosity?* 
+
+Implicit in the first question is the presumption that collective provision of aid inherently yields mutual foreign policy gains for donors. However, analysis of the theoretical model demonstrates that collective solutions do not always Pareto improve on individual best-responses. To be sure, there exist inefficient equilibria in the game where donors would both do better by directing some aid away from recipients where rivalry is most pronounced and to recipients where they share more common interests. In these cases, collective, as opposed to individual, optimization yields a solution where donors give less aid to recipients that are sites of deepest rivalry and more aid to recipients that are sites of greatest mutual interest. However, in many other scenarios individual and collective optimization yield conflicting payoffs for donors. While one donor may do much better under a collective solution, the other will do worse, and vice versa. This highlights a potential source of friction that may explain the stunted progress in donor collaboration to-date. Indeed, this scenario characterizes a sizable share of the parameter space in the model. I will present a working-paper version of this paper at the annual meeting of the Political Economy of International Organizations this summer (of 2022).
+
+The remainder of my dissertation deals with empirically identifying *when* and *where* donor governments compete for rival foreign policy gains through aid allocation or pass the buck. In doing so, I make a novel contribution to measurement by developing two composite measures that (1) capture leading countries' foreign policy interests with respect to individual developing countries and (2) capture individual developing countries' relative need for economic assistance. Next, using a mix of machine learning and conventional econometric techniques, I recover evidence, not only that leading donor countries engage in strategic responses to one another as they allocate aid but also that their responses are conditioned by their foreign policy interests and by recipient need. Specifically, I find that donor responsiveness is most prevalent within the neediest recipients. Further, among these recipients, donors respond competitively to peer aid where their foreign policy interests are strongest and deferentially to peer aid where their interests are minimal. These findings shed new light on strategic responses among aid donors by revealing not only that donors strategically target their aid based on the giving of others but also by identifying *when* and *where* these responses are competitive or deferential. 
+
+In the final chapter of my dissertation I turn to consider the implications of donor interactions for the emergence of "lead donorship," a condition of single donor dominance in relationship with an aid recipient that is purported to have normative implications for aid effectiveness. I find that lead donorship emerges just where the previous set of empirical findings would predict: a donor is most likely to have lead donor status in high need recipients where the donor has much stronger foreign policy interests than other donors. By better understanding the strategic factors that determine lead donorship it is possible to consider its import for development outcomes in recipient countries.
+
+Beyond my dissertation, I also maintain a research agenda focused on the determinants and impacts of aid allocation broadly construed. In one paper I was invited to revise and resubmit to *International Studies Quarterly*, I examine how donor interests in supporting bilateral trade, minimizing unwanted migration, and helping a strategically valuable country influence how they differently target economic assistance in developing countries experiencing civil war and those at peace. 
+
+In a work-in-progress in collaboration with Lucie Lu (University of Illinois), we ask when and where are developing countries targets of China’s development finance? We bring a novel perspective to this issue by considering Chinese media coverage of developing countries intended for foreign audiences and China’s bilateral diplomatic activities. These capture two distinct but related aspects of China’s foreign policy: status/legitimacy in the eyes of a foreign (predominantly Western) audience and south-south diplomacy. To the extent that China’s development finance complements these goals, we expect greater coverage of a developing country in a Chinese media outlet directed to foreign readers and greater bilateral diplomatic activity to correlate with greater Chinese foreign aid giving. To test this expectation we merge AidData’s Chinese development finance dataset with two newly available datasets: (1) AidData’s compiled yearly counts of bilateral official diplomatic visits from China and (2) millions of English edition *Xinhua* news articles from 2000 to 2014 scraped by the Cline Center for Advanced Social Research. We find that greater media coverage of developing countries targeted at a foreign audience via the English version of *Xinhua* and the number of diplomatic visits to a developing country predict greater receipt of Chinese aid. Our results support the view that Chinese aid allocation patterns map to China’s broader diplomacy and legitimacy seeking objectives on the world stage. We plan to present our findings at the annual meeting of the Midwest Political Science Association in April of this year.
+
+Beyond bilateral aid, I have an interest in the politics of multilateral development institutions. I recently coauthored a chapter on the history of and issues related to the World Bank with Matt Winters for the *Handbook of International Organizations: Theories, Concepts and Empirical Insights*. I also have a working paper that explores theoretically and empirically the tension besetting institutions like the World Bank to bend to the interests of their most influential donors versus targeting their loan and grant allocations to the most deserving recipients.
+
+In addition to my foreign aid research, I also maintain a research agenda centered on political methodology and applications of alternative data sources. With respect to the latter, in a pair of papers coauthored with Ryan Burge at Eastern Illinois University, I use text-as-data methods to understand political communication in the domain of religion. In an article published in the *Journal of Communication and Religion*, we applied a combination of natural language processing, descriptive analysis, and sentiment analysis to shed new light on the differential political communications of clergy in their sermons on the basis of gender. In another article published in the *Journal of Religion, Media, and Digital Culture*, we explored a novel dataset of Tweets made by more than 80 prominent Protestant Evangelical leaders with an eye to the most common themes in their communications and to their messaging on political issues.
+
+My methodological research further extends to innovating on methods for causal inference and for testing theoretical models. In one ongoing project, I propose a novel application of random forests to the problem of regression adjustment. In addition to developing an R package for implementing this approach, I detail the method in a working paper. In another project, I build upon an existing model-based approach to estimating a "strategic autoregressive model" (StratAM) and currently have a related R package under development for implementing the method.
+
+In addition to the above research programs, since May 2020 I have served as an Associate Fellow on the Methods Team at the U.S. Office of Evaluation Sciences (OES). This experience has honed my skills in experimental and quasi-experimental designs and given me invaluable experience doing policy relevant research in a government environment. OES is a federal agency that relies on a cross-disciplinary team of social and behavioral scientists to help federal government partners build and use evidence. In my role on the Methods Team, I consult on the development of research designs, support quality control for OES projects by conducting blind reanalyses for evaluations conducted by other team members, and have written guidance documents on statistical analysis and helped develop data visualization tools. Beyond my role on the Methods Team, I have been directly involved in rapid evaluations of pandemic relief for small businesses and am coauthor on related papers that are either under review or will be submitted to a peer reviewed journal soon. 
+
+Beyond my research, I am interested in teaching courses in international relations, political economy, research design, quantitative methods, and formal theory. At Illinois, I have facilitated discussion sections in Intro to Political Science and have served as the instructor of record for an online Intro to International Relations course. For the past four years, I also have served as a math camp instructor for incoming graduate students entering Illinois' Ph.D. program in political science. Sessions I have taught include linear regression and OLS, probability, calculus, and version control with GitHub. In my teaching, I promote rigor and expect a strong work-ethic and engagement from my students. At the same time, I believe rigorous demands demand compassion---a much needed virtue in a world where individuals face racial, ethnic, class, gender, and sexual-orientation based forms of discrimination.
+
+As a TRIP post-doctoral fellow at William and Mary, I would be eager to support GRI's research goals and participate in its thriving multidisciplinary community of scholars and researchers. My experience at OES has shown me the power of bringing together academics, practitioners, and students to study pressing policy issues. I wholeheartedly believe in GRI's mission to do the same, and I believe I am well suited to support this mission in collaboration with the Teaching, Research, and International Policy project given my combined experience as a student of international relations and international political economy and as someone supporting policy research in a government context.
+
+I can see many applications of TRIP's Data Dashboards, such as its Snap Polls and Faculty Surveys, for addressing pressing issues in my area of expertise and beyond. Given my special interest in the politics and foreign policy of foreign aid I also would have a strong interest in bridging work that makes use of GRI's AidData project.
+
+I further look forward to the opportunity to teach and support a diverse team of undergraduate researchers. I also will covet the mentorship of faculty and senior researchers at GRI since as a junior scholar I know I have much yet to learn about research and teaching.
+
+Thank you for your consideration. My contact information and website are included at the top of this letter for reference. Please contact me any time if you have questions
+
+\bigskip
+
+Sincerely,
+
+Miles D. Williams
+
+\vspace{-10pt}
+
+Ph.D. Candidate
+
+\vspace{-10pt}
+
+Department of Political Science
+
+\vspace{-10pt}
+
+University of Illinois at Urbana-Champaign
