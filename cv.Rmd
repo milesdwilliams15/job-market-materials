@@ -22,11 +22,21 @@ linkcolor: blue
 urlcolor: blue
 ---
 
+# EMPLOYMENT
+
+## Denison University
+
+Visiting Assistant Professor \hfill 2022-present
+
+## US Office of Evaluation Sciences
+
+Associate Fellow (methods specialist) \hfill 2020-present
+
 # EDUCATION
 
-*University of Illinois at Urbana-Champaign*, Ph.D. Political Science \hfill 2022 (expected)
+*University of Illinois at Urbana-Champaign*, Ph.D. Political Science \hfill 2022 
 
-  - Dissertation: "Competition and Deference in the Political Economy of Aid"
+  - Dissertation: "International Aid and Strategic Interdependence: How Common and Conflicting Foreign Policy Goals Shape the Supply of Foreign Aid"
   - Exams: International Relations, International Political Economy
   - Committee: Matthew S. Winters (chair), Xinyuan Dai, Robert Pahre, Robert Carroll
 
@@ -46,13 +56,17 @@ Burge, Ryan and Miles D. Williams. 2019. ["The Use of Social Media by Religious 
 
 ### Working Papers and Works-in-Progress
 
-"Targeting Civil War: Intra-state Conflict and the Opportunity-cost of Foreign Aid." (Under Review).
+"Foreign Aid, Migration, and Civil War." (Under Review).
+
+"Aid for Alliances? Buying and Selling Alliance Commitments in the Political Economy of Aid." (Work-in-Progress)
+
+"A Strategic Political Economy of Aid." (Working Paper)
+
+"Competition and Buck-Passing in the Political Economy of Aid." (Working Paper)
 
 "Who Leads? The Strategic Determinants of Lead Donorship." (Working Paper)
 
-"Competition and Deference in the Political Economy of Foreign Aid: How Donor Interests and Recipient Need Shape Strategic Reactions in Aid Allocation." (Working Paper)
-
-"Xinhua Coverage of Chinese Foreign Aid Allocations." With Lucie Lu (Work-in-Progress)
+"Xinhua Coverage of Chinese Foreign Aid Allocations." With Lucie Lu (Working Paper)
 
 "Leveraging the Black Box: Regression Adjustment via Random Forests." (Working Paper)
 
@@ -60,7 +74,7 @@ Burge, Ryan and Miles D. Williams. 2019. ["The Use of Social Media by Religious 
 
 "Does Performance Feedback Increase Flu-Vaccination Rates? A Cluster Randomized Trial." With Sebastian Jilke, Pompa Debroy, Rebecca Johnson, Michael Wallace, and Vincent Marconi. (Working Paper)
 
-"How Reducing Documentation Burdens Impacts Equity in Program Access: The Case of Small Business Covid-19 Relief Funding." With Elizabeth Bell and Heather Kappes. (Working Paper)
+"How Reducing Documentation Burdens Impacts Equity in Program Access: The Case of Small Business Covid-19 Relief Funding." With Elizabeth Bell and Heather Kappes. (Under Review)
 
 
 ### Book Chapters
@@ -82,6 +96,8 @@ I occasionally have contributed to [Religion in Public](https://religioninpublic
   - ["Do Women Preach Differently than Men?"](https://religioninpublic.blog/2019/06/26/do-women-preach-differently-than-men/) (June 26, 2019)
   - ["Welcom the Stranger? Evangelicals' Views on Immigration Prior to Donald Trump"](https://religioninpublic.blog/2017/02/20/welcome-the-stranger-evangelicals-views-on-immigration-prior-to-donald-trump/) (February 20, 2017)
   - ["Evangelical Leaders Are as Negative on Immigration and Islam as Donald Trump"](https://religioninpublic.blog/2017/02/13/evangelical-leaders-are-as-negative-on-immigration-and-islam-as-donald-trump/) (February 13, 2017)
+  
+I also write about various statistical and R-related things on [my personal blog](milesdwilliams15.github.io/blog/) hosted on my professional website.
 
 
 # SOFTWARE
@@ -104,6 +120,14 @@ R, RStudio, Latex, Stata, Python
 
 # TEACHING
 
+## Denison University
+
+*War, Wealth, and Would Politics* (Intro to IR) \hfill Fall 2022
+
+*Intro to Data Visualization* \hfill Fall 2022
+
+## University of Illinois at Urbana-Champaign
+
 *Intro to International Relations*, Independent Instructor (online) \hfill 2021
 
 *Intro to Political Science*, Teaching Assistant \hfill 2017
@@ -117,10 +141,6 @@ R, RStudio, Latex, Stata, Python
    
 
 # PROFESSIONAL
-
-*U.S. Office of Evaluations Sciences*, Associate Fellow
-
-  - Methods Specialist \hfill 2020-present
 
 *University of Illinois at Urbana-Champaign*, Research Assistant
 
