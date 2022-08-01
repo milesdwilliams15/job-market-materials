@@ -1,17 +1,17 @@
 ---
 output: 
   pdf_document:
-    stevetemplates::cv
+    template: my_cv_temp.tex
 geometry: margin=1in
 
 title: "Curriculum Vitae"
 author: Miles D. Williams
 
-jobtitle: Department of Political Science, University of Illinois at Urbana-Champaign
-address: "David Kinley Hall · 1470 W Gregory Drive · Urbana IL, 61801"
-email: "milesdw2@illinois.edu"
-# github: "milesdwilliams15"
-phone: "618-663-9499"
+jobtitle: Denison University, Data for Political Research
+address: "Higley 401C · 11 Burt Ridge Rd SW · Granville, OH 43023"
+email: "williamsmd@denison.edu"
+github: "milesdwilliams15"
+# phone: "618-663-9499"
 web: "milesdwilliams15.github.io"
 fontawesome: yes
 updated: false
@@ -28,9 +28,6 @@ urlcolor: blue
 
 Visiting Assistant Professor \hfill 2022-present
 
-## US Office of Evaluation Sciences
-
-Associate Fellow (methods specialist) \hfill 2020-present
 
 # EDUCATION
 
@@ -66,7 +63,7 @@ Burge, Ryan and Miles D. Williams. 2019. ["The Use of Social Media by Religious 
 
 "Who Leads? The Strategic Determinants of Lead Donorship." (Working Paper)
 
-"Xinhua Coverage of Chinese Foreign Aid Allocations." With Lucie Lu (Working Paper)
+"Friends Get More Money, Attention, and Handshakes: Xinhua, Dipomacy, and Chinese Foreign Aid." With Lucie Lu (Working Paper)
 
 "Leveraging the Black Box: Regression Adjustment via Random Forests." (Working Paper)
 
@@ -84,6 +81,15 @@ Williams, Miles D. and Matthew S. Winters. ["The World Bank."](https://www.acade
 Ashley, Jeffrey and Miles Williams. 2018. ["Illinois 10th Congressional District: Re-rematch in Chicago Suburbs."](https://link.springer.com/chapter/10.1007/978-3-319-58094-4_9) In *The Roads to Congress 2016*. Eds. S. Foreman and M. Godwin. 
 
 
+### Conferences
+
+"A Strategic Political Economy of Aid," PEIO \hfill July 2022
+
+"Friends Get more Money, Attention, and Handshakes: Xinhua, Diplomacy, and Chinese Foreign Aid," AidData Roundtable \hfill June 2022
+
+"Competition and Buck-passing in the Political Economy of Aid," MPSA \hfill April 2022
+
+
 ### Technical Guides
 
 ["Reporting Statistical Results in Text and in Graphs."](https://oes.gsa.gov/assets/files/reporting-statistical-results.pdf) With Ryan T. Moore and Russell Burnett.
@@ -97,7 +103,7 @@ I occasionally have contributed to [Religion in Public](https://religioninpublic
   - ["Welcom the Stranger? Evangelicals' Views on Immigration Prior to Donald Trump"](https://religioninpublic.blog/2017/02/20/welcome-the-stranger-evangelicals-views-on-immigration-prior-to-donald-trump/) (February 20, 2017)
   - ["Evangelical Leaders Are as Negative on Immigration and Islam as Donald Trump"](https://religioninpublic.blog/2017/02/13/evangelical-leaders-are-as-negative-on-immigration-and-islam-as-donald-trump/) (February 13, 2017)
   
-I also write about various statistical and R-related things on [my personal blog](milesdwilliams15.github.io/blog/) hosted on my professional website.
+I also write about various statistical and R-related things on [my personal blog](https://milesdwilliams15.github.io/blog/) hosted on my professional website.
 
 
 # SOFTWARE
@@ -122,7 +128,7 @@ R, RStudio, Latex, Stata, Python
 
 ## Denison University
 
-*War, Wealth, and Would Politics* (Intro to IR) \hfill Fall 2022
+*War, Wealth, and World Politics* (Intro to IR) \hfill Fall 2022
 
 *Intro to Data Visualization* \hfill Fall 2022
 
@@ -142,12 +148,18 @@ R, RStudio, Latex, Stata, Python
 
 # PROFESSIONAL
 
-*University of Illinois at Urbana-Champaign*, Research Assistant
+## US Office of Evaluation Sciences
+
+Associate Fellow (methods specialist) \hfill 2020-present
+
+## University of Illinois at Urbana-Champaign
+
+Research Assistant
 
   - Cara Wong \hfill 2020-present
   - Matthew S. Winters \hfill 2018-2020
 
-*Eastern Illinois University*
+## Eastern Illinois University
 
   - Research Assistant for Jeffrey Ashley \hfill 2016
   - Presidential Graduate Assistant \hfill 2015-2016
@@ -165,6 +177,11 @@ R, RStudio, Latex, Stata, Python
   - Williams Travel Grant \hfill 2016
 
 # SERVICE
+
+*Reviewer*
+
+- Journal of Politics
+- Development Studies Research
 
 *International Relations Graduate Workshop*, Coordinator \hfill 2020-2021
 
